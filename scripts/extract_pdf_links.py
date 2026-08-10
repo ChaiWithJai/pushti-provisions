@@ -23,7 +23,7 @@ def ensure(pdf_path: str, file_id: str) -> None:
     if os.path.exists(pdf_path) and os.path.getsize(pdf_path) > 1_000_000:
         return
     subprocess.run(
-        [sys.executable, "-m", "gdown", "--fuzzy",
+        [sys.executable, "-m", "gdown",
          f"https://drive.google.com/uc?id={file_id}", "-O", pdf_path],
         check=True,
     )
