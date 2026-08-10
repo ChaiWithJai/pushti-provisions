@@ -1,0 +1,61 @@
+{
+  "documents": [
+    {
+      "source": {
+        "slug": "guides-and-tips",
+        "title": "Guides & Tips",
+        "edition": "KO Boxing Package 3.0",
+        "filename": "guides-and-tips.pdf",
+        "driveUrl": "https://drive.google.com/file/d/18w_cvvbCtpIC0j1zGzXpebDWLHjlJwzy/view",
+        "description": "Technique lessons, training guidance, safety notes, and the core video curriculum.",
+        "pdfUrl": "/canonical/guides-and-tips.pdf",
+        "sha256": "ff6fd1c7dcd9614d5a8b8a1d157f0485bbe1cd315aef50c220868fa3a29d0d8f",
+        "pageCount": 20
+      },
+      "stats": {
+        "pages": 20,
+        "blocks": 360,
+        "links": 23,
+        "youtubeVideos": 20
+      }
+    },
+    {
+      "source": {
+        "slug": "basic-workout-plan",
+        "title": "Basic Workout Plan",
+        "edition": "KO Boxing Package 2.0",
+        "filename": "basic-workout-plan.pdf",
+        "driveUrl": "https://drive.google.com/file/d/1Ce0XirE69WGnEa0vVMOw83kJo6lPxeXa/view",
+        "description": "Beginner boxing workouts, lifting sessions, recovery guidance, and linked demonstrations.",
+        "pdfUrl": "/canonical/basic-workout-plan.pdf",
+        "sha256": "beb5e6665f896cd61952271cc6f6d3d4f51bee42d704d81f9eb1971676abf6c1",
+        "pageCount": 38
+      },
+      "stats": {
+        "pages": 38,
+        "blocks": 1723,
+        "links": 741,
+        "youtubeVideos": 735
+      }
+    },
+    {
+      "source": {
+        "slug": "competitive-workout-plan",
+        "title": "Competitive Workout Plan",
+        "edition": "KO Boxing Package 3.0",
+        "filename": "competitive-workout-plan.pdf",
+        "driveUrl": "https://drive.google.com/file/d/1kEzME5oqin2AtlO27PNohUImSQ3zWoPp/view",
+        "description": "A five-week competitive program with boxing, conditioning, strength, and recovery work.",
+        "pdfUrl": "/canonical/competitive-workout-plan.pdf",
+        "sha256": "5e0f4c0fe273246234f18f4b356164c39d2144b5524097bc5e76fb9bd2b9e8ab",
+        "pageCount": 44
+      },
+      "stats": {
+        "pages": 44,
+        "blocks": 1501,
+        "links": 506,
+        "youtubeVideos": 499
+      }
+    }
+  ]
+}
