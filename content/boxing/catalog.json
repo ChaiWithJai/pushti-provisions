@@ -14,8 +14,8 @@
       },
       "stats": {
         "pages": 20,
-        "blocks": 359,
-        "links": 24,
+        "blocks": 360,
+        "links": 23,
         "youtubeVideos": 20
       }
     },
@@ -33,9 +33,9 @@
       },
       "stats": {
         "pages": 38,
-        "blocks": 1450,
-        "links": 1316,
-        "youtubeVideos": 1306
+        "blocks": 1723,
+        "links": 741,
+        "youtubeVideos": 735
       }
     },
     {
@@ -52,9 +52,9 @@
       },
       "stats": {
         "pages": 44,
-        "blocks": 1300,
-        "links": 832,
-        "youtubeVideos": 818
+        "blocks": 1501,
+        "links": 506,
+        "youtubeVideos": 499
       }
     }
   ]

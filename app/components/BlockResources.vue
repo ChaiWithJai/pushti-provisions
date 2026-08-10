@@ -3,15 +3,9 @@ import { Launch16 as Launch } from '@carbon/icons-vue'
 import type { ContentLink } from '~/types/content'
 
 const props = defineProps<{ links: ContentLink[] }>()
-const deduped = computed(() => {
-  const seen = new Set<string>()
-  return props.links.filter((link) => {
-    const key = link.video ? `youtube:${link.video.id}` : `${link.url}:${link.text}`
-    if (seen.has(key)) return false
-    seen.add(key)
-    return true
-  })
-})
+// The extraction pipeline has already collapsed duplicate PDF annotations.
+// Repeating one URL under two canonical exercise labels is intentional.
+const deduped = computed(() => props.links)
 const videos = computed(() => deduped.value.filter(link => link.video))
 const otherLinks = computed(() => deduped.value.filter(link => !link.video))
 </script>

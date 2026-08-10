@@ -6,20 +6,22 @@ A phone-first Nuxt 4 training course built with IBM Carbon Design System and sha
 
 - **Basic Boxing Program:** five progressive beginner weeks, each with five boxing workouts, one strength/recovery day, and one rest/mobility day.
 - **Competitive Boxing Camp:** general preparation, three specialized-preparation weeks, and peak performance; each week has five boxing workouts, one conditioning/recovery day, and one rest/mobility day.
-- Every day is a complete lesson at `/program/:program/week/:week/day/:day` with a lead YouTube demonstration, exact source text, all remaining source-linked videos, local completion progress, and previous/next navigation.
+- Every day is a complete lesson at `/program/:program/week/:week/day/:day` with a lead YouTube demonstration, exact source sections, all remaining source-linked videos, local completion progress, and previous/next navigation.
+- Competitive lessons also include the exact canonical purpose and objectives from their weekly overview page.
 
 ## Content pipeline
 
-`scripts/extract_pdfs.py` extracts each PDF page into typed blocks and preserves every link annotation. A link rectangle is matched to the words beneath it and attached to the overlapping or nearest block. YouTube URLs include normalized video IDs, privacy-enhanced embed URLs, and thumbnail URLs.
+`scripts/extract_pdfs.py` treats visible PDF geometry as authoritative. It removes Canva's hidden black link text and decorative shadow copies, separates columns and colored source panels, and then attaches each URI annotation to its owning section and visible text block. Duplicate rectangles for one text anchor collapse, while an intentional repeat of the same video under another exercise remains. YouTube timestamps are preserved in privacy-enhanced embed URLs.
 
 Generated JSON lives in `content/boxing/` and includes:
 
 - source metadata and SHA-256 checksum
-- page hierarchy and reading-order text blocks
-- each link's source URL, anchor text, page rectangle, and owning block ID
+- page hierarchy, panel-aware source sections, and visible reading-order text blocks
+- each link's source URL, anchor text, page rectangle, owning block ID, and owning section ID
 - normalized YouTube metadata used by the lazy video player
 - `programs.json`, the deterministic stage/week/day reshape
 - `instructional-design.json`, semantic labels, prerequisite graph, cognitive-load analysis, alignment validation, evaluation score, and monitoring experiment
+- `lesson-audit.json`, the page-by-page and section-by-section verification record for all 70 lessons
 
 ## Local development
 
@@ -33,6 +35,7 @@ To regenerate content after replacing a canonical PDF, run the bundled Python ru
 ```bash
 npm run extract
 npm run reshape
+npm run audit:lessons
 npm run validate:content
 npm run generate
 ```

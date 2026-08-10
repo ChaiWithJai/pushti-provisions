@@ -4,8 +4,9 @@
   "version": "2.0.0",
   "type": "module",
   "scripts": {
-    "extract": "python3 scripts/extract_pdfs.py",
+    "extract": "uv run --with pdfplumber --with pypdf python scripts/extract_pdfs.py",
     "reshape": "node scripts/build_programs.mjs",
+    "audit:lessons": "node scripts/audit_lessons.mjs",
     "validate:content": "node scripts/validate_programs.mjs",
     "dev": "nuxt dev",
     "build": "nuxt build",

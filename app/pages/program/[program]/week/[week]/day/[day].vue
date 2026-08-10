@@ -5,13 +5,14 @@ import { getTrainingLesson } from '~/data/library'
 const route = useRoute()
 const result = getTrainingLesson(String(route.params.program), Number(route.params.week), Number(route.params.day))
 if (!result) throw createError({ statusCode: 404, statusMessage: 'Training day not found' })
-const { program, week, lesson, page, previous, next } = result
+const { program, week, lesson, page, overviewPage, previous, next } = result
 const { isComplete, toggle } = useTrainingProgress()
 
 const leadLink = page.links.find(link => link.video)
-const remainingLinks = (links: typeof page.links) => links.filter(link => !leadLink?.video || link.video?.id !== leadLink.video.id)
-const uniqueVideoCount = new Set(page.links.flatMap(link => link.video?.id ? [link.video.id] : [])).size
+const remainingLinks = (links: typeof page.links) => links.filter(link => !leadLink?.video || link.video?.key !== leadLink.video.key || link.blockId !== leadLink.blockId)
+const demonstrationCount = page.links.filter(link => link.video).length
 const sourceUrl = `${program.pdfUrl}#page=${lesson.sourcePage}`
+const overviewUrl = overviewPage ? `${program.pdfUrl}#page=${overviewPage.number}` : null
 const prior = previous ? `Bring forward one technique cue from Day ${previous.day}.` : 'Start with a stance you can hold without tension and enough clear space to move safely.'
 const dropoff = lesson.dayOfWeek === 7
   ? 'You have completed the recovery routine and made an honest readiness check for the next week.'
@@ -33,7 +34,7 @@ useSeoMeta({ title: lesson.title, description: lesson.summary || lesson.objectiv
       <p class="lesson-meta">DAY {{ String(lesson.day).padStart(2, '0') }} · WEEK {{ String(week.number).padStart(2, '0') }} · {{ week.stage.toUpperCase() }}</p>
       <h1>{{ lesson.shortTitle }}</h1>
       <p class="lesson-deck">{{ lesson.objective }}</p>
-      <div class="lesson-tags"><span>{{ lesson.role }}</span><span>{{ uniqueVideoCount }} demonstrations</span><span>Source page {{ lesson.sourcePage }}</span></div>
+      <div class="lesson-tags"><span>{{ lesson.role }}</span><span>{{ demonstrationCount }} demonstrations</span><span>Source page {{ lesson.sourcePage }}</span></div>
     </header>
 
     <aside class="safety-note" aria-label="Training safety">
@@ -63,27 +64,46 @@ useSeoMeta({ title: lesson.title, description: lesson.summary || lesson.objectiv
           </div>
         </section>
 
-        <section id="workout" class="lesson-section workout-section">
+        <section v-if="overviewPage" id="week-brief" class="lesson-section week-brief-section">
           <div class="section-number">02</div>
+          <p class="section-label">CANONICAL WEEK BRIEF</p>
+          <h2>Use the week’s purpose and objectives to frame today’s work.</h2>
+          <div class="source-integrity-note"><strong>Week {{ week.number }} source</strong><p>This briefing is preserved from {{ program.sourceTitle }} page {{ overviewPage.number }}.</p><a :href="overviewUrl || program.pdfUrl" target="_blank">Inspect week source <Launch :size="16" /></a></div>
+          <div class="week-brief-copy">
+            <template v-for="section in overviewPage.sections" :key="section.id">
+              <div v-for="block in section.blocks" :key="block.id" :class="['source-block', `source-block--${block.type}`]">
+                <h3 v-if="block.type === 'title' || block.type === 'heading'">{{ block.text }}</h3>
+                <p v-else-if="block.type !== 'marker'">{{ block.text }}</p>
+              </div>
+            </template>
+          </div>
+        </section>
+
+        <section id="workout" class="lesson-section workout-section">
+          <div class="section-number">{{ overviewPage ? '03' : '02' }}</div>
           <p class="section-label">TODAY’S WORKOUT</p>
           <h2>Follow the source in order. Tap any demonstration when you reach its drill.</h2>
           <div class="source-integrity-note"><strong>Trainer-owned content</strong><p>The wording and sequence below come directly from {{ program.sourceTitle }}. Spelling and phrasing are preserved so the PDF remains authoritative.</p><a :href="sourceUrl" target="_blank">Inspect source <Launch :size="16" /></a></div>
 
           <ol class="workout-flow">
-            <li v-for="(block, index) in page.blocks" :id="block.id" :key="block.id" :class="['workout-block', `workout-block--${block.type}`, { 'workout-block--linked': block.links.length }]">
+            <li v-for="(section, index) in page.sections" :id="section.id" :key="section.id" :class="['workout-block', `workout-block--${section.kind}`, { 'workout-block--linked': section.links.length }]">
               <span class="block-index">{{ String(index + 1).padStart(2, '0') }}</span>
-              <div>
-                <h3 v-if="block.type === 'heading'">{{ block.text }}</h3>
-                <p v-else>{{ block.text }}</p>
-                <BlockResources :links="remainingLinks(block.links)" />
-                <div v-if="leadLink && block.links.some(link => link.video?.id === leadLink.video?.id)" class="lead-reference"><Play :size="16" /> Lead video shown above</div>
+              <div class="source-section">
+                <p class="source-section-label">{{ section.kind === 'supplement' ? 'SUPPLEMENTAL WORK' : section.kind === 'checklist' ? 'DAILY CHECKLIST' : section.kind === 'recovery' ? 'RECOVERY' : 'SOURCE SECTION' }}</p>
+                <div v-for="block in section.blocks" :id="block.id" :key="block.id" :class="['source-block', `source-block--${block.type}`]">
+                  <span v-if="block.type === 'marker'" class="source-marker">{{ block.text }}</span>
+                  <h3 v-else-if="block.type === 'title' || block.type === 'heading'">{{ block.text }}</h3>
+                  <p v-else>{{ block.text }}</p>
+                  <BlockResources :links="remainingLinks(block.links)" />
+                  <div v-if="leadLink && block.links.some(link => link.video?.key === leadLink.video?.key)" class="lead-reference"><Play :size="16" /> Lead video shown above</div>
+                </div>
               </div>
             </li>
           </ol>
         </section>
 
         <section id="finish" class="lesson-section finish-section">
-          <div class="section-number">03</div>
+          <div class="section-number">{{ overviewPage ? '04' : '03' }}</div>
           <p class="section-label">FINISH THE LOOP</p>
           <h2>Keep one useful cue, then mark the day complete.</h2>
           <p>{{ lesson.assessment }}</p>
@@ -103,6 +123,7 @@ useSeoMeta({ title: lesson.title, description: lesson.summary || lesson.objectiv
         <nav aria-label="On this lesson">
           <h2>On this lesson</h2>
           <a href="#objective">Pickup → Dropoff</a>
+          <a v-if="overviewPage" href="#week-brief">Week brief</a>
           <a href="#workout">Today’s workout</a>
           <a href="#finish">Finish the loop</a>
         </nav>

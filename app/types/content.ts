@@ -1,5 +1,7 @@
 export interface VideoData {
   id: string
+  key: string
+  start: number
   short: boolean
   embedUrl: string
   thumbnailUrl: string
@@ -11,15 +13,26 @@ export interface ContentLink {
   kind: 'youtube' | 'instagram' | 'external'
   rect: number[]
   blockId?: string
+  sectionId?: string
+  annotationCount?: number
   video?: VideoData
 }
 
 export interface ContentBlock {
   id: string
-  type: 'heading' | 'paragraph'
+  type: 'title' | 'heading' | 'paragraph' | 'marker'
   text: string
   bbox: number[]
   size: number
+  links: ContentLink[]
+}
+
+export interface ContentSection {
+  id: string
+  kind: 'header' | 'drill' | 'recovery' | 'supplement' | 'checklist'
+  title: string
+  bbox: number[]
+  blocks: ContentBlock[]
   links: ContentLink[]
 }
 
@@ -30,7 +43,17 @@ export interface ContentPage {
   height: number
   text: string
   blocks: ContentBlock[]
+  sections: ContentSection[]
   links: ContentLink[]
+  audit: {
+    visibleWords: number
+    representedWords: number
+    coverage: number
+    removedOverlays: number
+    removedDecorations: number
+    rawAnnotations: number
+    resolvedResources: number
+  }
 }
 
 export interface BoxingDocument {

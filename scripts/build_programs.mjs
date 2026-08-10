@@ -29,9 +29,9 @@ const roleFor = (program, dayOfWeek) => {
 
 const clean = text => text.replace(/\s+/g, ' ').trim()
 const summaryFor = (page) => {
-  const text = page.blocks
-    .map(block => clean(block.text))
-    .filter(text => text && !/^boxing workout/i.test(text) && !/^day \d+/i.test(text))
+  const text = page.sections
+    .filter(section => section.kind !== 'header' && section.kind !== 'checklist')
+    .map(section => clean(section.title))
     .slice(0, 3)
     .join(' · ')
   return text.length > 210 ? `${text.slice(0, 207).trim()}…` : text
@@ -41,7 +41,7 @@ function lesson(program, source, week, dayOfWeek, sourcePage, overviewPage = nul
   const day = (week - 1) * 7 + dayOfWeek
   const page = source.pages.find(item => item.number === sourcePage)
   if (!page) throw new Error(`Missing ${program} source page ${sourcePage}`)
-  const videoIds = [...new Set(page.links.flatMap(link => link.video?.id ? [link.video.id] : []))]
+  const videoIds = page.links.filter(link => link.video)
   const role = roleFor(program, dayOfWeek)
   const workoutTitle = page.title.replace(/^Boxing Workout\s*/i, 'Workout ')
   const title = dayOfWeek === 7 ? `Day ${day}: Rest and reset` : `Day ${day}: ${workoutTitle}`

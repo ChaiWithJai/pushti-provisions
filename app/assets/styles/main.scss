@@ -174,6 +174,10 @@ button, input { font: inherit; }
 .source-integrity-note strong { font-size: .75rem; }
 .source-integrity-note p { margin: 0; color: #a8a8a8; font-size: .75rem; line-height: 1.5; }
 .source-integrity-note a { display: flex; gap: .4rem; align-items: center; color: var(--blue); font-size: .7rem; text-decoration: none; }
+.week-brief-copy { padding: 1.5rem; border: 1px solid var(--line); background: var(--panel); }
+.week-brief-copy h3 { margin: 1.25rem 0 .35rem; font-size: 1rem; font-weight: 500; line-height: 1.45; }
+.week-brief-copy .source-block:first-child h3 { margin-top: 0; }
+.week-brief-copy p { margin: .15rem 0; color: #c6c6c6; font-size: .9rem; line-height: 1.6; }
 .workout-flow { margin: 0; padding: 0; list-style: none; }
 .workout-block { display: grid; grid-template-columns: 3rem 1fr; gap: 1rem; padding: 1rem 0; border-top: 1px solid var(--line); scroll-margin-top: 5rem; }
 .block-index { padding-top: .2rem; color: #525252; font-family: 'IBM Plex Mono', monospace; font-size: .65rem; }
@@ -181,6 +185,14 @@ button, input { font: inherit; }
 .workout-block h3 { font-size: 1.05rem; font-weight: 500; line-height: 1.4; }
 .workout-block p { color: #d1d5db; line-height: 1.6; }
 .workout-block--linked { padding: 1.25rem 0; }
+.workout-block--supplement, .workout-block--checklist, .workout-block--recovery { margin-top: 1rem; padding: 1.25rem 1rem; border-left: 3px solid #8a3ffc; background: rgba(138,63,252,.08); }
+.workout-block--checklist { border-left-color: var(--green); background: rgba(36,161,72,.07); }
+.workout-block--recovery { border-left-color: #f1c21b; background: rgba(241,194,27,.06); }
+.source-section-label { margin-bottom: .85rem !important; color: #6f6f6f !important; font-family: 'IBM Plex Mono', monospace; font-size: .62rem; letter-spacing: .1em; }
+.source-block + .source-block { margin-top: .55rem; }
+.source-block--title h3 { font-size: 1.3rem; }
+.source-block--paragraph + .source-block--paragraph { margin-top: .25rem; }
+.source-marker { display: inline-flex; margin-bottom: .25rem; padding: .15rem .35rem; color: #fff; background: #525252; font-family: 'IBM Plex Mono', monospace; font-size: .65rem; }
 .lead-reference { display: flex; gap: .4rem; align-items: center; margin-top: .75rem; color: var(--blue); font-size: .7rem; }
 .block-resources { margin-top: 1rem; }
 .video-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: .75rem; }
