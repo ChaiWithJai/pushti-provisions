@@ -5,6 +5,8 @@
   "type": "module",
   "scripts": {
     "extract": "python3 scripts/extract_pdfs.py",
+    "reshape": "node scripts/build_programs.mjs",
+    "validate:content": "node scripts/validate_programs.mjs",
     "dev": "nuxt dev",
     "build": "nuxt build",
     "generate": "nuxt generate",

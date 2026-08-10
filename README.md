@@ -1,6 +1,12 @@
-# KO Boxing Library
+# KO Boxing Training
 
-A Nuxt 4 training library built with IBM Carbon Design System. The three PDFs in `public/canonical/` are the canonical sources; the application consumes only deterministic JSON generated from them.
+A phone-first Nuxt 4 training course built with IBM Carbon Design System and shaped after the Compass course shell. The three PDFs in `public/canonical/` remain canonical; the main experience is organized as two five-week, 35-day programs rather than a PDF page browser.
+
+## Course model
+
+- **Basic Boxing Program:** five progressive beginner weeks, each with five boxing workouts, one strength/recovery day, and one rest/mobility day.
+- **Competitive Boxing Camp:** general preparation, three specialized-preparation weeks, and peak performance; each week has five boxing workouts, one conditioning/recovery day, and one rest/mobility day.
+- Every day is a complete lesson at `/program/:program/week/:week/day/:day` with a lead YouTube demonstration, exact source text, all remaining source-linked videos, local completion progress, and previous/next navigation.
 
 ## Content pipeline
 
@@ -12,6 +18,8 @@ Generated JSON lives in `content/boxing/` and includes:
 - page hierarchy and reading-order text blocks
 - each link's source URL, anchor text, page rectangle, and owning block ID
 - normalized YouTube metadata used by the lazy video player
+- `programs.json`, the deterministic stage/week/day reshape
+- `instructional-design.json`, semantic labels, prerequisite graph, cognitive-load analysis, alignment validation, evaluation score, and monitoring experiment
 
 ## Local development
 
@@ -23,7 +31,9 @@ npm run dev
 To regenerate content after replacing a canonical PDF, run the bundled Python runtime (or any Python with `pdfplumber` and `pypdf`):
 
 ```bash
-python3 scripts/extract_pdfs.py
+npm run extract
+npm run reshape
+npm run validate:content
 npm run generate
 ```
 

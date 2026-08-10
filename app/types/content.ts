@@ -54,3 +54,46 @@ export interface BoxingDocument {
   }
   pages: ContentPage[]
 }
+
+export interface TrainingLesson {
+  id: string
+  day: number
+  week: number
+  dayOfWeek: number
+  title: string
+  shortTitle: string
+  role: string
+  sourcePage: number
+  overviewPage: number | null
+  summary: string
+  durationLabel: string
+  videoCount: number
+  prerequisiteLessonId: string | null
+  cognitiveLoad: number
+  objective: string
+  observableBehavior: string
+  assessment: string
+  transfer: string
+  href: string
+}
+
+export interface TrainingWeek {
+  number: number
+  stage: string
+  title: string
+  description: string
+  overviewPage?: number
+  lessons: TrainingLesson[]
+}
+
+export interface TrainingProgram {
+  id: 'basic' | 'competitive'
+  title: string
+  eyebrow: string
+  description: string
+  sourceSlug: string
+  sourceTitle: string
+  pdfUrl: string
+  sha256: string
+  weeks: TrainingWeek[]
+}

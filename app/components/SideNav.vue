@@ -1,35 +1,51 @@
 <script setup lang="ts">
-import { Close20 as Close, Document16 as Document, Home16 as Home, Search16 as Search } from '@carbon/icons-vue'
-import { documents } from '~/data/library'
+import { CheckmarkFilled16 as Check, Close20 as Close } from '@carbon/icons-vue'
+import { programs } from '~/data/library'
 
 defineProps<{ open: boolean }>()
 defineEmits<{ close: [] }>()
+const route = useRoute()
+const { isComplete } = useTrainingProgress()
+const expanded = ref<Record<string, boolean>>({
+  basic: !route.path.includes('/competitive'),
+  competitive: route.path.includes('/competitive')
+})
 </script>
 
 <template>
-  <aside class="side-nav" :class="{ 'side-nav--open': open }" aria-label="Training library">
+  <aside class="side-nav" :class="{ 'side-nav--open': open }" aria-label="Training course">
     <div class="side-nav-mobile-head">
-      <span>Library</span>
+      <span>Course</span>
       <button class="icon-button" aria-label="Close navigation" @click="$emit('close')"><Close :size="20" /></button>
     </div>
-    <nav>
-      <p class="side-nav-label">Overview</p>
-      <NuxtLink class="side-nav-link" to="/"><Home :size="16" />Start here</NuxtLink>
-      <NuxtLink class="side-nav-link" to="/search"><Search :size="16" />Search</NuxtLink>
-      <p class="side-nav-label side-nav-label--spaced">Canonical sources</p>
-      <NuxtLink
-        v-for="document in documents"
-        :key="document.source.slug"
-        class="side-nav-link"
-        :to="`/library/${document.source.slug}`"
-      >
-        <Document :size="16" />
-        <span>{{ document.source.title }}<small>{{ document.source.pageCount }} pages</small></span>
-      </NuxtLink>
+    <NuxtLink class="course-brand" to="/">
+      <span class="course-mark">KO</span>
+      <span><strong>Boxing Training</strong><small>WORK THE PROGRAM</small></span>
+    </NuxtLink>
+    <nav class="course-nav">
+      <section v-for="(program, programIndex) in programs" :key="program.id" class="course-program">
+        <button class="program-toggle" :aria-expanded="expanded[program.id]" @click="expanded[program.id] = !expanded[program.id]">
+          <span>0{{ programIndex + 1 }}</span>{{ program.id === 'basic' ? 'Basic program' : 'Competitive camp' }}
+        </button>
+        <div v-if="expanded[program.id]" class="program-weeks">
+          <div v-for="week in program.weeks" :key="week.number" class="nav-week">
+            <NuxtLink :to="`/program/${program.id}#week-${week.number}`" class="week-label">Week {{ week.number }} · {{ week.title }}</NuxtLink>
+            <ul>
+              <li v-for="lesson in week.lessons" :key="lesson.id">
+                <NuxtLink :to="lesson.href" :aria-current="route.path === lesson.href ? 'page' : undefined">
+                  <Check v-if="isComplete(lesson.id)" :size="14" class="nav-check" />
+                  <span v-else class="nav-day-number">{{ String(lesson.day).padStart(2, '0') }}</span>
+                  <span>Day {{ lesson.day }}<small>{{ lesson.role }}</small></span>
+                </NuxtLink>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </section>
     </nav>
     <div class="side-nav-foot">
       <span class="status-dot" />
-      Generated from 3 source PDFs
+      Canonical PDF training
     </div>
   </aside>
 </template>

@@ -5,9 +5,9 @@ export default defineNuxtConfig({
   app: {
     head: {
       htmlAttrs: { lang: 'en' },
-      titleTemplate: '%s · KO Boxing Library',
+      titleTemplate: '%s · KO Boxing Training',
       meta: [
-        { name: 'description', content: 'A structured training library generated from the canonical KO Boxing Package PDFs.' },
+        { name: 'description', content: 'Phone-ready daily and weekly boxing programs generated from the canonical KO Boxing Package PDFs.' },
         { name: 'theme-color', content: '#161616' }
       ],
       link: [

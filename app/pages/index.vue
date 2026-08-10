@@ -1,76 +1,57 @@
 <script setup lang="ts">
-import { ArrowRight20 as ArrowRight, Book32 as Book, Document32 as Document, Play24 as Play, Search20 as Search } from '@carbon/icons-vue'
-import { documents, uniqueVideos } from '~/data/library'
+import { ArrowRight20 as ArrowRight, CheckmarkFilled20 as Check, Time20 as Time } from '@carbon/icons-vue'
+import { programs } from '~/data/library'
 
-useSeoMeta({ title: 'Start here' })
-
-const totals = computed(() => ({
-  pages: documents.reduce((sum, document) => sum + document.stats.pages, 0),
-  videos: documents.reduce((sum, document) => sum + uniqueVideos(document), 0),
-  links: documents.reduce((sum, document) => sum + document.stats.links, 0)
-}))
+useSeoMeta({ title: '35-day boxing programs', description: 'Choose a program, open today, and train from a complete source-linked workout lesson.' })
+const { completedFor, isComplete } = useTrainingProgress()
 </script>
 
 <template>
-  <div>
-    <section class="hero carbon-grid-full">
-      <div class="hero-kicker"><span class="eyebrow-line" /> KO Boxing Package</div>
-      <h1>Train with the source<br><em>in the room.</em></h1>
-      <p class="hero-lead">
-        A navigable training system generated directly from the original PDFs. Every drill, note, and linked demonstration stays connected to its source text.
-      </p>
-      <div class="hero-actions">
-        <NuxtLink class="cds--btn cds--btn--primary" to="/library/guides-and-tips">Begin with the guide <ArrowRight :size="16" /></NuxtLink>
-        <NuxtLink class="cds--btn cds--btn--ghost inverse-ghost" to="/search"><Search :size="16" />Search all training</NuxtLink>
-      </div>
-      <div class="hero-stats">
-        <div><strong>{{ totals.pages }}</strong><span>Source pages</span></div>
-        <div><strong>{{ totals.videos }}</strong><span>Unique videos</span></div>
-        <div><strong>{{ totals.links.toLocaleString() }}</strong><span>Text-linked annotations</span></div>
-      </div>
+  <div class="course-overview">
+    <section class="course-hero">
+      <p class="course-kicker">KO BOXING PACKAGE · WORK THE PROGRAM</p>
+      <h1>A training plan you can<br>actually use <em>today.</em></h1>
+      <p class="course-intro">Choose your level, tap the day, and get the entire workout in one phone-ready lesson—with every demonstration attached to the exact drill it teaches.</p>
+      <div class="course-facts"><span>2 programs</span><i>·</i><span>10 weeks</span><i>·</i><span>70 daily lessons</span></div>
+      <NuxtLink class="course-start" :to="programs[0].weeks[0].lessons[0].href">Start the basic program <ArrowRight :size="16" /></NuxtLink>
     </section>
 
-    <section class="content-section">
-      <div class="section-heading">
-        <p class="eyebrow">Choose your path</p>
-        <h2>Three documents. One training library.</h2>
-        <p>Start with fundamentals, follow the basic plan, or work through the competitive cycle. The PDF remains canonical at every step.</p>
-      </div>
+    <section class="course-map" aria-labelledby="course-map-title">
+      <p class="section-label">YOUR TRAINING MAP</p>
+      <h2 id="course-map-title">Two paths. Five weeks each.</h2>
 
-      <div class="document-grid">
-        <NuxtLink
-          v-for="(document, index) in documents"
-          :key="document.source.slug"
-          class="document-card"
-          :to="`/library/${document.source.slug}`"
-        >
-          <span class="document-number">0{{ index + 1 }}</span>
-          <component :is="index === 0 ? Book : Document" :size="32" class="document-icon" />
-          <div>
-            <p class="card-edition">{{ document.source.edition }}</p>
-            <h3>{{ document.source.title }}</h3>
-            <p>{{ document.source.description }}</p>
+      <article v-for="(program, programIndex) in programs" :key="program.id" class="program-section">
+        <div class="program-index">0{{ programIndex + 1 }}</div>
+        <div class="program-body">
+          <div class="program-heading">
+            <div><p>{{ program.eyebrow }}</p><h3>{{ program.title }}</h3><span>{{ program.description }}</span></div>
+            <NuxtLink :to="`/program/${program.id}`">View program <ArrowRight :size="16" /></NuxtLink>
           </div>
-          <dl class="card-stats">
-            <div><dt>Pages</dt><dd>{{ document.stats.pages }}</dd></div>
-            <div><dt>Videos</dt><dd>{{ uniqueVideos(document) }}</dd></div>
-          </dl>
-          <span class="card-arrow"><ArrowRight :size="20" /></span>
-        </NuxtLink>
-      </div>
+          <div class="progress-line" role="progressbar" :aria-valuenow="completedFor(`${program.id}-day-`)" aria-valuemin="0" aria-valuemax="35">
+            <span :style="{ width: `${completedFor(`${program.id}-day-`) / 35 * 100}%` }" />
+          </div>
+          <p class="progress-copy">{{ completedFor(`${program.id}-day-`) }} of 35 days complete</p>
+          <ol class="week-list">
+            <li v-for="week in program.weeks" :id="`${program.id}-week-${week.number}`" :key="week.number">
+              <div class="week-heading"><span>Week {{ String(week.number).padStart(2, '0') }}</span><strong>{{ week.title }}</strong><p>{{ week.description }}</p></div>
+              <div class="day-strip">
+                <NuxtLink v-for="lesson in week.lessons" :key="lesson.id" :to="lesson.href" :class="{ complete: isComplete(lesson.id) }">
+                  <Check v-if="isComplete(lesson.id)" :size="16" />
+                  <span v-else>{{ lesson.dayOfWeek }}</span>
+                  <strong>Day {{ lesson.day }}</strong>
+                  <small>{{ lesson.dayOfWeek <= 5 ? 'Box' : lesson.dayOfWeek === 6 ? 'Build' : 'Rest' }}</small>
+                </NuxtLink>
+              </div>
+            </li>
+          </ol>
+        </div>
+      </article>
     </section>
 
-    <section class="method-section">
-      <div class="method-copy">
-        <p class="eyebrow eyebrow--light">Built for fidelity</p>
-        <h2>The link belongs to the lesson.</h2>
-        <p>Each PDF was converted into structured JSON page by page. Hyperlink rectangles are matched to the text beneath them, then rendered immediately beside the relevant instruction.</p>
-      </div>
-      <div class="method-steps">
-        <div><Document :size="24" /><span>01</span><p>Canonical PDF</p></div>
-        <div><Book :size="24" /><span>02</span><p>Structured text</p></div>
-        <div><Play :size="24" /><span>03</span><p>Linked demos</p></div>
-      </div>
+    <section class="source-footer">
+      <div><p class="section-label">SOURCE FIDELITY</p><h2>The coach’s material stays canonical.</h2></div>
+      <p>The interface changes the order you access the program—not the prescribed work. Every daily lesson points back to its PDF page, preserves the extracted text, and keeps YouTube links attached to their source annotations.</p>
+      <Time :size="32" />
     </section>
   </div>
 </template>
