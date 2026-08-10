@@ -1,22 +1,23 @@
 {
-  "name": "ko-boxing-wiki",
+  "name": "ko-boxing-library",
   "private": true,
-  "version": "1.0.0",
-  "description": "KO Boxing Package — training wiki built with Nuxt and IBM Carbon Design System",
-  "engines": {
-    "node": ">=20.19.0"
-  },
+  "version": "2.0.0",
+  "type": "module",
   "scripts": {
+    "extract": "python3 scripts/extract_pdfs.py",
     "dev": "nuxt dev",
     "build": "nuxt build",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
   },
+  "engines": {
+    "node": ">=22"
+  },
   "dependencies": {
-    "@carbon/styles": "^1.70.0",
-    "@nuxt/content": "^2.13.4",
-    "nuxt": "^3.14.1592",
-    "sass": "^1.80.0"
+    "@carbon/icons-vue": "10.130.0",
+    "@carbon/styles": "1.112.0",
+    "nuxt": "4.5.2",
+    "sass": "^1.90.0"
   }
 }

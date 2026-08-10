@@ -1,2 +1,0 @@
-IBM Plex fonts (c) IBM Corp. Licensed under the SIL Open Font License 1.1.
-Source: https://github.com/IBM/plex (copied from the @ibm/plex-sans and @ibm/plex-mono npm packages).
