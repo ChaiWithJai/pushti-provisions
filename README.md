@@ -21,6 +21,7 @@ See [`canonical/README.md`](canonical/README.md) for details on how the extracti
 - **@carbon/styles** — IBM Carbon v11 styles, tokens and themes (g100 header zone, white content zone), with self-hosted IBM Plex fonts
 - **Custom MDC components** (`components/content/`):
   - `::video-embed{id="..."}` — lazy YouTube facade (thumbnail + play button → `youtube-nocookie.com` iframe); vertical layout for Shorts via the `short` prop; video titles are fetched client-side via noembed.com
+  - `::workout-videos{plan="..." page="workout-01"}` — the videos linked from a specific workout/PDF section, resolved via `data/videos/workout-map.json` (see `canonical/README.md` for how the exact mapping is derived) and labeled with their true YouTube titles
   - `::video-gallery{plan="basic|competitive"}` — grid of every video linked from a workout plan, in order of first appearance (`data/videos/*.json`)
   - `::lesson-grid{:part='1'}` — the 20-lesson curriculum with embeds (`data/videos/lessons.json`)
   - `::drive-video{id="..."}` — Google Drive video embed (used for the welcome video)

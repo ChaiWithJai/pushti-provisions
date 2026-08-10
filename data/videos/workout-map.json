@@ -1,4163 +1,5342 @@
 {
  "basic": {
-  "page-2": [
+  "workout-01": [
    {
     "id": "NBx2IAu3nkw",
     "kind": "video",
-    "sim": 0.43
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
     "id": "6XbTboFL0nY",
     "kind": "short",
-    "sim": 1
+    "title": "Boxing movement drill \ud83d\udd7a"
    },
    {
     "id": "ghDNbod8B3s",
     "kind": "short",
-    "sim": 0.25
+    "title": "Focus on the exit after attacking"
    },
    {
     "id": "9gqxqT57qkA",
     "kind": "short",
-    "sim": 0.5
+    "title": "Practice any 2 punch combos \ud83d\udcaa"
    },
    {
     "id": "jtXFk0LNxhY",
     "kind": "short",
-    "sim": 0.33
+    "title": "Great drill for practicing your defensive skills"
    },
    {
     "id": "Ftk-1CdLY_E",
     "kind": "short",
-    "sim": 0
+    "title": "Imagination is the key here \ud83d\ude4c"
    },
    {
     "id": "y_zhcZA9vvc",
     "kind": "short",
-    "sim": 0.4
+    "title": "I recommend doing it in frontal stance #boxing #shorts"
    },
    {
     "id": "rV3m-gHRCXw",
     "kind": "short",
-    "sim": 0.2
+    "title": "practice each group of punches (straights, hooks, uppercuts, body shots) for 2 min"
    },
    {
     "id": "PZHndgAZSqE",
     "kind": "short",
-    "sim": 0.86
+    "title": "Boxing movement drill for beginners. Do 1 round of 2 minutes"
    },
    {
     "id": "YVpudYmtAGw",
     "kind": "short",
-    "sim": 0.14
+    "title": "Good way to practice defensive skills without a partner #boxing #shorts"
    },
    {
     "id": "qUzOrInwIJE",
     "kind": "short",
-    "sim": 0.56
+    "title": "Practice each group of punches for 2 min with 45 sec of rest in between"
    },
    {
     "id": "nyJ14GOUtAo",
     "kind": "short",
-    "sim": 0.8
+    "title": "Move like this for 1 round of 2 minutes"
    },
    {
     "id": "IfqrxS_-8oU",
     "kind": "short",
-    "sim": 1
+    "title": "Jump Squats"
    },
    {
     "id": "FRUmYNDUhok",
     "kind": "short",
-    "sim": 0.6
+    "title": "Practice this defensive drill for 2 minutes"
    },
    {
     "id": "zFeBhk6WU4M",
     "kind": "short",
-    "sim": 1
+    "title": "Do 6-8 reps of each exercise #boxingtraining"
    },
    {
     "id": "wp3mmcRXHzY",
     "kind": "short",
-    "sim": 0.67
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
    },
    {
     "id": "biaDz-vGWd4",
     "kind": "short",
-    "sim": 0
+    "title": "Air Squat"
    },
    {
     "id": "Ty-WEBF92d8",
     "kind": "video",
-    "sim": 0.67
+    "title": "Balanced knee tucks"
    },
    {
     "id": "q6CHxddV_mA",
     "kind": "short",
-    "sim": 0.67
+    "title": "Plyo Push Ups"
    },
    {
     "id": "7DoFMV1Dnow",
     "kind": "short",
-    "sim": 0.57
+    "title": "STOP HANGING leg raises like this = ABS!"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0.25
+    "title": "Follow Along Cool-Down"
    },
    {
     "id": "Dq9J5N0YxuI",
     "kind": "short",
-    "sim": 0.4
+    "title": "The different variations and goals of the MOUNTAIN CLIMBERS \u26f0\ufe0f"
    },
    {
     "id": "OcLiAR9QQqo",
     "kind": "short",
-    "sim": 0.5
+    "title": "Practice this drill for 2 minutes"
    },
    {
     "id": "VTsD3quZ5HE",
     "kind": "short",
-    "sim": 0.5
-   }
-  ],
-  "weightlifting": [
-   {
-    "id": "OcLiAR9QQqo",
-    "kind": "short",
-    "sim": 0.75
+    "title": "Burpees - Fat loss workout"
    },
    {
     "id": "8bv6hM59338",
     "kind": "video",
-    "sim": 0.75
-   },
-   {
-    "id": "6EgZIxpiET8",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "_EjbMlRxcro",
-    "kind": "video",
-    "sim": 0.75
-   },
-   {
-    "id": "Sr3mkCXxcP8",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "xyPpnPITAvk",
-    "kind": "video",
-    "sim": 0.6
-   },
-   {
-    "id": "Xwn7eMqb3mE",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "-nYXXOYdfEw",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "FHU-ssiHPaQ",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "88EACyTz-e0",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "S7Ka6685B1U",
-    "kind": "video",
-    "sim": 0.5
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
    },
    {
     "id": "Ozz_LPaDFJc",
     "kind": "short",
-    "sim": 0.78
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
    },
    {
     "id": "5reVMmjNQik",
     "kind": "short",
-    "sim": 0.78
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
    },
    {
     "id": "LiAWJ79WX-Q",
     "kind": "video",
-    "sim": 0.6
-   },
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-02": [
    {
     "id": "NBx2IAu3nkw",
     "kind": "video",
-    "sim": 0.43
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
     "id": "2acMNkWJh90",
     "kind": "video",
-    "sim": 1
+    "title": "Virtual Pad Workout for Boxing"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
    },
    {
     "id": "p4bmxQ1nScA",
     "kind": "short",
-    "sim": 0.8
+    "title": "Practice this drill for 1 round of 2 minutes \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
    },
    {
     "id": "nyJ14GOUtAo",
     "kind": "short",
-    "sim": 0.6
+    "title": "Move like this for 1 round of 2 minutes"
    },
    {
     "id": "Offbyi3E130",
     "kind": "short",
-    "sim": 0.5
+    "title": "Simple boxing movement drills"
    },
    {
     "id": "FRUmYNDUhok",
     "kind": "short",
-    "sim": 0.8
+    "title": "Practice this defensive drill for 2 minutes"
    },
    {
     "id": "DRqJdPkcTrw",
     "kind": "short",
-    "sim": 0.6
+    "title": "Do this drill for 1 round of 2 minutes"
    },
    {
     "id": "EsTDHme9KgY",
     "kind": "short",
-    "sim": 0.6
+    "title": "Shadow box with light dumbbells for 2 minutes"
    },
    {
     "id": "pqkH_mRGXm0",
     "kind": "short",
-    "sim": 0.67
+    "title": "Do each drill for 45 seconds with 15 seconds of rest in between #boxing #shorts"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "OcLiAR9QQqo",
+    "kind": "short",
+    "title": "Practice this drill for 2 minutes"
    },
    {
     "id": "rdwMjyI_OOg",
     "kind": "short",
-    "sim": 0.6
+    "title": "Do this drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-03": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
     "id": "LTR2rVJ-NW8",
     "kind": "short",
-    "sim": 0.67
+    "title": "The easiest boxing combo"
    },
    {
     "id": "0XX4TLekQCk",
     "kind": "short",
-    "sim": 0.5
+    "title": "The postman blow boxing combo"
    },
    {
     "id": "4VduADecTk4",
     "kind": "short",
-    "sim": 0.33
+    "title": "Simple boxing combination"
    },
    {
     "id": "u03fZNif7L4",
     "kind": "short",
-    "sim": 0.6
+    "title": "Focus on setting up the rear hook"
    },
    {
     "id": "I6ig7l9m-dQ",
     "kind": "short",
-    "sim": 0.5
+    "title": "Focus on the hook \ud83e\ude9d"
    },
    {
     "id": "Tki5lCHY7ps",
     "kind": "short",
-    "sim": 0.33
+    "title": "Focus on the slip inside"
    },
    {
     "id": "MASuca0XACQ",
     "kind": "short",
-    "sim": 0.2
+    "title": "Use this combo at the close range"
    },
    {
     "id": "bwz-l3bGnVw",
     "kind": "short",
-    "sim": 0.4
+    "title": "Set up that liver shot"
    },
    {
     "id": "4SS717xyPYY",
     "kind": "short",
-    "sim": 0.25
+    "title": "Mike Tyson style combo"
    },
    {
     "id": "47x4K0vEwYU",
     "kind": "short",
-    "sim": 1
+    "title": "Body head boxing combo"
    },
    {
     "id": "u-mHlgrE2MM",
     "kind": "short",
-    "sim": 0.75
+    "title": "Set up the last hook"
    },
    {
     "id": "4DRYBlKaJco",
     "kind": "short",
-    "sim": 0.4
+    "title": "Effective close range boxing combo"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
    },
    {
     "id": "q6CHxddV_mA",
     "kind": "short",
-    "sim": 0.67
+    "title": "Plyo Push Ups"
    },
    {
     "id": "r2LKWUlCczs",
     "kind": "short",
-    "sim": 1
+    "title": "Mountain Climbers"
    },
    {
     "id": "YVpudYmtAGw",
     "kind": "short",
-    "sim": 0.29
+    "title": "Good way to practice defensive skills without a partner #boxing #shorts"
    },
    {
     "id": "oYG9JVu3k38",
     "kind": "video",
-    "sim": 0.5
+    "title": "Punching Bag Boxing Workout | Audio Combinations"
    },
    {
     "id": "-QbhRExILuw",
     "kind": "short",
-    "sim": 0.33
+    "title": "Great boxing drill for rotational strength and speed"
    },
    {
     "id": "-NkpM5DYF2Y",
     "kind": "short",
-    "sim": 0.82
+    "title": "15 sec with dumbbells and 15 sec w/o for the 6 basic punches. 20 sec of rest in between #boxing"
    },
    {
     "id": "vK-XgduCGS8",
     "kind": "short",
-    "sim": 0.5
+    "title": "Exact Way Of Doing Parallel Bar Dips"
    },
    {
     "id": "ZPG8OsHKXLw",
     "kind": "short",
-    "sim": 0.75
+    "title": "The PERFECT Pull-Up (5 Steps)"
    },
    {
     "id": "IlVleQhEANA",
     "kind": "video",
-    "sim": 0.4
+    "title": "Jumping Lunge - Jump Squats DEMO"
    },
    {
     "id": "7DoFMV1Dnow",
     "kind": "short",
-    "sim": 0.43
+    "title": "STOP HANGING leg raises like this = ABS!"
    },
    {
-    "id": "mHZdlcsRNT0",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "hqwyknGPlvM",
-    "kind": "short",
-    "sim": 0.71
-   },
-   {
-    "id": "5_hXnKZTsZM",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "JAXCraUP2_0",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "hv_SjTmt278",
+    "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0
-   },
-   {
-    "id": "P4oppYK5anw",
-    "kind": "short",
-    "sim": 0.57
-   },
-   {
-    "id": "Z8b0PuYbDXk",
-    "kind": "short",
-    "sim": 0.56
-   },
-   {
-    "id": "u1vHeFR4ptE",
-    "kind": "short",
-    "sim": 0.57
-   },
-   {
-    "id": "IfqrxS_-8oU",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "FZq5k7l13fI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Mo5vtCs7mkk",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "cCIWGpOGlFU",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "E5yoxmT_n9s",
-    "kind": "short",
-    "sim": 0.57
-   },
-   {
-    "id": "vF7LMIpllTU",
-    "kind": "video",
-    "sim": 0.6
-   },
-   {
-    "id": "JkacHtlPYds",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "_d9mP__bxeU",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "9gdGBI5OsuM",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "9h6FHbBzijE",
-    "kind": "short",
-    "sim": 0.7
-   },
-   {
-    "id": "qhWStZa5ohg",
-    "kind": "video",
-    "sim": 0.4
-   },
-   {
-    "id": "De8K8OHthqM",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "Q5Qelt-Vlbg",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "qFwUiUkMlFg",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "e9-PPOKLWDs",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "Y5i5ArZ6Rn0",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "xQG-eY32Jdw",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "YI--Lad5QAc",
-    "kind": "video",
-    "sim": 0.75
-   },
-   {
-    "id": "tzRoVFHVw7M",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "WDvsjeA-RvM",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "pOMvUdr9G4Y",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "P4Xpwq_NM1c",
-    "kind": "short",
-    "sim": 0.2
-   },
-   {
-    "id": "Egx_dUGEEYE",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "6Hfn609WwwA",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "FE3Tq69ku_Y",
-    "kind": "video",
-    "sim": 0.4
-   },
-   {
-    "id": "pRt3AeSAYGk",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "p0n8g1FK37s",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "PX243y6Ssx8",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "Eaqccx9eie0",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "OxoBnnzxfQU",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "c3Y6a53kRnE",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "a9SV08McTT4",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Atl4PL0qVwg",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "SFY_pSWjPa4",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "hZOcCjbytDw",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "RYPYFiLPOo4",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "EMWcf1FHcJs",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "DKxxXUcTxqM",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "qEP3CuNPRoI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "hcyV2ahXEoE",
-    "kind": "short",
-    "sim": 0.71
-   },
-   {
-    "id": "RFgKbmOod6U",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "L4wpaWbIlQI",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "VnOTTVXlzQ0",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "wp3mmcRXHzY",
-    "kind": "short",
-    "sim": 0.56
-   },
-   {
-    "id": "nWuZRgUoNWc",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "zx9rIRzbxWI",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "2f9J6hEWkjQ",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "bplcNZKqtbM",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "xBz3nyZCUYY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "JzOGj5n9wLU",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "QlQ0df_Yjl8",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "Ri4avAtE-g8",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "lcGbbXsJr2g",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "jqDwgDf1JSo",
-    "kind": "short",
-    "sim": 0.2
-   },
-   {
-    "id": "FU_P_kDHKeI",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "5kadzemmVAs",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "CgGu9eofSI0",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "nooKhPoEoQw",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "wLMYHme4HxM",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "jIBkXDJDTgI",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "1PTb-3y7nJ8",
-    "kind": "video",
-    "sim": 0.86
-   },
-   {
-    "id": "sg-cF1PVbb4",
-    "kind": "video",
-    "sim": 0.6
-   },
-   {
-    "id": "0uaktrbkytM",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "XXwCfzzUnKw",
-    "kind": "video",
-    "sim": 0.33
-   },
-   {
-    "id": "NaUV5TItJzE",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "fYp7wBoZ_Ms",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "8HJlKuzDe4E",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "CNlyLuig3_I",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "KbdAnd6NB1o",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "mLu99PoDBbg",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "8Gs2mVqGU6s",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "RZrajcY1LXY",
-    "kind": "short",
-    "sim": 0.2
-   },
-   {
-    "id": "gkRdX80CPfw",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "1lNCj3qvhic",
-    "kind": "video",
-    "sim": 0.4
-   },
-   {
-    "id": "ZdwhlOqAG-I",
-    "kind": "short",
-    "sim": 0.05
-   },
-   {
-    "id": "EzfRukRldIQ",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "zke6oZ2MdRc",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Dw6bD59CSVY",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "ZUDU_WW3aA8",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "_InWVnhdwbQ",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "dGNolJ15xdw",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "OAmGrq3f-Vc",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "B8m5zKbCutI",
-    "kind": "video",
-    "sim": 0.17
-   },
-   {
-    "id": "rxmFrPOYi2g",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "ESgTNyhHhk4",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "ujRWP3Iq66c",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "vyS4iGeIPj4",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "t3c8vMGUGoU",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "BeOXzXVGVYA",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "aWpvQSJxSvU",
-    "kind": "short",
-    "sim": 0.29
-   },
-   {
-    "id": "fFPPz3tiRWs",
-    "kind": "video",
-    "sim": 0
-   },
-   {
-    "id": "CO1N37_8L8E",
-    "kind": "short",
-    "sim": 0.17
-   }
-  ],
-  "page-5": [
-   {
-    "id": "De8K8OHthqM",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "Q5Qelt-Vlbg",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "Sr3mkCXxcP8",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "qFwUiUkMlFg",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "e9-PPOKLWDs",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "Y5i5ArZ6Rn0",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "xQG-eY32Jdw",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "YI--Lad5QAc",
-    "kind": "video",
-    "sim": 0.75
-   },
-   {
-    "id": "tzRoVFHVw7M",
-    "kind": "video",
-    "sim": 1
+    "title": "Follow Along Cool-Down"
    },
    {
     "id": "8bv6hM59338",
     "kind": "video",
-    "sim": 0.75
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "Q5Qelt-Vlbg",
+    "kind": "video",
+    "title": "Med Ball Slams"
+   },
+   {
+    "id": "Y5i5ArZ6Rn0",
+    "kind": "video",
+    "title": "Squat Jumps"
+   },
+   {
+    "id": "xQG-eY32Jdw",
+    "kind": "video",
+    "title": "Split Jump Switches"
+   },
+   {
+    "id": "YI--Lad5QAc",
+    "kind": "video",
+    "title": "Broad to 180\u00b0 Vert to Broad"
+   },
+   {
+    "id": "tzRoVFHVw7M",
+    "kind": "video",
+    "title": "Max Vertical Jump"
    },
    {
     "id": "Z8b0PuYbDXk",
     "kind": "short",
-    "sim": 0.44
-   },
+    "title": "Do each drill for 45 seconds with 15 seconds of rest in between #boxing #boxingtraining"
+   }
+  ],
+  "workout-04": [
    {
     "id": "NBx2IAu3nkw",
     "kind": "video",
-    "sim": 0.43
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
     "id": "pFWd2haAseU",
     "kind": "short",
-    "sim": 0.67
+    "title": "Go for 1 round of 3 minutes"
    },
    {
     "id": "hqwyknGPlvM",
     "kind": "short",
-    "sim": 0.57
+    "title": "Do each progression for 1 minute with no rest in between \ud83d\ude24"
    },
    {
     "id": "5_hXnKZTsZM",
     "kind": "short",
-    "sim": 0.67
+    "title": "Go for 1 round of 3 minutes"
    },
    {
     "id": "NWdRNwQslS4",
     "kind": "short",
-    "sim": 0.71
+    "title": "Go for 6 rounds of 1 minute with 20 seconds of rest in between"
    },
    {
     "id": "tbtn8BM454E",
     "kind": "video",
-    "sim": 0.17
+    "title": "Wanna Sparr Me? Boxing Against a Slugger"
    },
    {
     "id": "P4oppYK5anw",
     "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0
-   },
-   {
-    "id": "u1vHeFR4ptE",
-    "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "wp3mmcRXHzY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "jIBkXDJDTgI",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "ZPG8OsHKXLw",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "1PTb-3y7nJ8",
-    "kind": "video",
-    "sim": 0.71
-   },
-   {
-    "id": "rdwMjyI_OOg",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "IfqrxS_-8oU",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "FZq5k7l13fI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Mo5vtCs7mkk",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "cCIWGpOGlFU",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "9h6FHbBzijE",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 0.6
-   },
-   {
-    "id": "vF7LMIpllTU",
-    "kind": "video",
-    "sim": 0.6
-   },
-   {
-    "id": "8-VWHlNnl4U",
-    "kind": "video",
-    "sim": 0.5
-   }
-  ],
-  "page-7": [
-   {
-    "id": "D_MDU7C4YAc",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "O0j2lIr7LVk",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "SSKTV-m761U",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "zqwH9fs0bEo",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "De8K8OHthqM",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "YJJTSyOEm1k",
-    "kind": "video",
-    "sim": 0.33
-   },
-   {
-    "id": "gc157ERt3_A",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "NJGIOVioIV4",
-    "kind": "video",
-    "sim": 0.6
-   }
-  ],
-  "page-8": [
-   {
-    "id": "8bv6hM59338",
-    "kind": "video",
-    "sim": 0.63
-   },
-   {
-    "id": "Ozz_LPaDFJc",
-    "kind": "short",
-    "sim": 0.44
-   },
-   {
-    "id": "5reVMmjNQik",
-    "kind": "short",
-    "sim": 0.44
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 0.8
-   },
-   {
-    "id": "NBx2IAu3nkw",
-    "kind": "video",
-    "sim": 0.43
-   },
-   {
-    "id": "Ysyuy6QVGnc",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "cjYscJ-EWJA",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "IfqrxS_-8oU",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "HiNr7fR2wAk",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Upp_SMY01Us",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "VTsD3quZ5HE",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "wp3mmcRXHzY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "6XbTboFL0nY",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "nB8UlPDLp-k",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "CRGneLQciW0",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "jtXFk0LNxhY",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "Ftk-1CdLY_E",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "6K7nDwLo9k8",
-    "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "zFeBhk6WU4M",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "q6CHxddV_mA",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "biaDz-vGWd4",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "Ty-WEBF92d8",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0.25
-   }
-  ],
-  "page-10": [
-   {
-    "id": "De8K8OHthqM",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "OAmGrq3f-Vc",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "KbdAnd6NB1o",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "88EACyTz-e0",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "B8m5zKbCutI",
-    "kind": "video",
-    "sim": 0.17
-   },
-   {
-    "id": "rxmFrPOYi2g",
-    "kind": "video",
-    "sim": 0.33
-   },
-   {
-    "id": "ESgTNyhHhk4",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "ujRWP3Iq66c",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "Y5i5ArZ6Rn0",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "8bv6hM59338",
-    "kind": "video",
-    "sim": 0.63
-   },
-   {
-    "id": "Ozz_LPaDFJc",
-    "kind": "short",
-    "sim": 0.56
-   },
-   {
-    "id": "5reVMmjNQik",
-    "kind": "short",
-    "sim": 0.56
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 0.6
-   },
-   {
-    "id": "NBx2IAu3nkw",
-    "kind": "video",
-    "sim": 0.43
-   },
-   {
-    "id": "SDIAYFiR8L8",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "NVvGoOUTL04",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "76Nl1Fq3UPU",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "jf2LEyjS2YQ",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "Bz4NFrfvR04",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "wOIU0dHkX3M",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "pRt3AeSAYGk",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "pqkH_mRGXm0",
-    "kind": "short",
-    "sim": 0.56
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0
-   },
-   {
-    "id": "KwRWglSkoeU",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "7QRBrxkd6ig",
-    "kind": "short",
-    "sim": 0.17
-   },
-   {
-    "id": "w1Xk1aNaK5E",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "O73WMSW2Ynk",
-    "kind": "short",
-    "sim": 0.2
-   },
-   {
-    "id": "Ci24H39KNBA",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "Fu8tfnmRB5k",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "u-mHlgrE2MM",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "4DRYBlKaJco",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "sQAVCBEfiqg",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "BmOlxQ5fX6g",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "DKxxXUcTxqM",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "qEP3CuNPRoI",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "q6CHxddV_mA",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "r2LKWUlCczs",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "oYG9JVu3k38",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "YVpudYmtAGw",
-    "kind": "short",
-    "sim": 0.29
-   },
-   {
-    "id": "dGNolJ15xdw",
-    "kind": "short",
-    "sim": 1
-   }
-  ],
-  "page-14": [
-   {
-    "id": "Pq1BdarTUYQ",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "JLGy0P0HSwA",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "SSKTV-m761U",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "zqwH9fs0bEo",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "9CWjnuMaXXE",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "CNlyLuig3_I",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "KbdAnd6NB1o",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "IQ3UF8EDBCc",
-    "kind": "video",
-    "sim": 1
-   }
-  ],
-  "page-15": [
-   {
-    "id": "8bv6hM59338",
-    "kind": "video",
-    "sim": 0.75
-   },
-   {
-    "id": "u1vHeFR4ptE",
-    "kind": "short",
-    "sim": 0.57
-   },
-   {
-    "id": "wp3mmcRXHzY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "jIBkXDJDTgI",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "ZPG8OsHKXLw",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "1PTb-3y7nJ8",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "rdwMjyI_OOg",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "IfqrxS_-8oU",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "FZq5k7l13fI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Mo5vtCs7mkk",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "cCIWGpOGlFU",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "9h6FHbBzijE",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 0.8
+    "title": "Practice each progression for 1 minute with no rest in between"
    },
    {
     "id": "Z8b0PuYbDXk",
     "kind": "short",
-    "sim": 0.56
-   },
-   {
-    "id": "NBx2IAu3nkw",
-    "kind": "video",
-    "sim": 0.43
-   },
-   {
-    "id": "YCj_ATgi-VA",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "3Qs6qba5EOk",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "kaZCIytnlsQ",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "5_hXnKZTsZM",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Dq9J5N0YxuI",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "6XbTboFL0nY",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "T47047YI6X8",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "eMp1faih6oA",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "jtXFk0LNxhY",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "YsRNwk2DNZI",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "yvKk-CUl_nM",
-    "kind": "short",
-    "sim": 0.14
-   },
-   {
-    "id": "nRzUGJ9PgPQ",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "VTsD3quZ5HE",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "zFeBhk6WU4M",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "q6CHxddV_mA",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "7DoFMV1Dnow",
-    "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "Ty-WEBF92d8",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "biaDz-vGWd4",
-    "kind": "short",
-    "sim": 0
+    "title": "Do each drill for 45 seconds with 15 seconds of rest in between #boxing #boxingtraining"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0.25
-   }
-  ],
-  "page-19": [
-   {
-    "id": "OAmGrq3f-Vc",
-    "kind": "video",
-    "sim": 0.5
+    "title": "Follow Along Cool-Down"
    },
    {
-    "id": "KbdAnd6NB1o",
-    "kind": "video",
-    "sim": 0.5
+    "id": "u1vHeFR4ptE",
+    "kind": "short",
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
    },
    {
-    "id": "ESgTNyhHhk4",
-    "kind": "video",
-    "sim": 0.67
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
    },
    {
-    "id": "8bv6hM59338",
-    "kind": "video",
-    "sim": 0.75
+    "id": "jIBkXDJDTgI",
+    "kind": "short",
+    "title": "Medicine Ball Squat Toss"
    },
    {
-    "id": "88EACyTz-e0",
+    "id": "1PTb-3y7nJ8",
     "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "B8m5zKbCutI",
-    "kind": "video",
-    "sim": 0.17
-   },
-   {
-    "id": "rxmFrPOYi2g",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "ujRWP3Iq66c",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "Y5i5ArZ6Rn0",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 0.6
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
    },
    {
     "id": "rdwMjyI_OOg",
     "kind": "short",
-    "sim": 0.8
+    "title": "Do this drill for 1 round of 2 minutes"
    },
    {
     "id": "IfqrxS_-8oU",
     "kind": "short",
-    "sim": 1
+    "title": "Jump Squats"
    },
    {
     "id": "FZq5k7l13fI",
     "kind": "short",
-    "sim": 1
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
    },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "cCIWGpOGlFU",
+    "kind": "short",
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
+   },
+   {
+    "id": "9h6FHbBzijE",
+    "kind": "short",
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-05": [
    {
     "id": "NBx2IAu3nkw",
     "kind": "video",
-    "sim": 0.43
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
-    "id": "_DpUmwFrEHo",
+    "id": "rdwMjyI_OOg",
     "kind": "short",
-    "sim": 0.42
+    "title": "Do this drill for 1 round of 2 minutes"
    },
    {
-    "id": "JQD1GheJVvs",
+    "id": "IfqrxS_-8oU",
     "kind": "short",
-    "sim": 0.5
+    "title": "Jump Squats"
    },
    {
-    "id": "uVaHYp-cMyQ",
+    "id": "FZq5k7l13fI",
     "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "rOB7265jI_I",
-    "kind": "video",
-    "sim": 0
-   },
-   {
-    "id": "ZrxKR91m2eo",
-    "kind": "short",
-    "sim": 0.2
-   },
-   {
-    "id": "nRzUGJ9PgPQ",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "P4oppYK5anw",
-    "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "C5HWvUJUV88",
-    "kind": "short",
-    "sim": 0.62
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0
-   },
-   {
-    "id": "_Kg76bnOzlQ",
-    "kind": "short",
-    "sim": 0.4
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
    },
    {
     "id": "vF7LMIpllTU",
     "kind": "video",
-    "sim": 0.6
+    "title": "Boxing Virtual Defence and Counterpunching Workout"
    },
    {
-    "id": "JkacHtlPYds",
-    "kind": "video",
-    "sim": 1
+    "id": "5_hXnKZTsZM",
+    "kind": "short",
+    "title": "Go for 1 round of 3 minutes"
    },
    {
     "id": "Mo5vtCs7mkk",
     "kind": "short",
-    "sim": 0.83
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
    },
    {
-    "id": "_d9mP__bxeU",
+    "id": "cCIWGpOGlFU",
     "kind": "short",
-    "sim": 1
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
    },
    {
-    "id": "p9BkWafAACg",
+    "id": "u1vHeFR4ptE",
     "kind": "short",
-    "sim": 0.4
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
    },
    {
     "id": "9h6FHbBzijE",
     "kind": "short",
-    "sim": 0.6
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
    },
    {
     "id": "wp3mmcRXHzY",
     "kind": "short",
-    "sim": 0.67
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
    },
    {
     "id": "jIBkXDJDTgI",
     "kind": "short",
-    "sim": 0.5
+    "title": "Medicine Ball Squat Toss"
    },
    {
     "id": "ZPG8OsHKXLw",
     "kind": "short",
-    "sim": 0.5
+    "title": "The PERFECT Pull-Up (5 Steps)"
    },
    {
     "id": "1PTb-3y7nJ8",
     "kind": "video",
-    "sim": 0.71
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
    },
    {
-    "id": "qhWStZa5ohg",
-    "kind": "video",
-    "sim": 0.4
-   }
-  ],
-  "page-21": [
-   {
-    "id": "Pq1BdarTUYQ",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "JLGy0P0HSwA",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "SSKTV-m761U",
+    "id": "Z8b0PuYbDXk",
     "kind": "short",
-    "sim": 1
+    "title": "Do each drill for 45 seconds with 15 seconds of rest in between #boxing #boxingtraining"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
    },
    {
     "id": "zqwH9fs0bEo",
     "kind": "short",
-    "sim": 0.33
+    "title": "Scab Push-Ups"
    },
    {
-    "id": "9CWjnuMaXXE",
+    "id": "YJJTSyOEm1k",
     "kind": "video",
-    "sim": 1
+    "title": "EXPLOSIVE PUSH-UPS"
    },
-   {
-    "id": "CNlyLuig3_I",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "KbdAnd6NB1o",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "IQ3UF8EDBCc",
-    "kind": "video",
-    "sim": 1
-   }
-  ],
-  "page-22": [
-   {
-    "id": "8bv6hM59338",
-    "kind": "video",
-    "sim": 0.75
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 0.8
-   },
-   {
-    "id": "rdwMjyI_OOg",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "IfqrxS_-8oU",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "FZq5k7l13fI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "NBx2IAu3nkw",
-    "kind": "video",
-    "sim": 0.43
-   },
-   {
-    "id": "xJmlmO5Hguc",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "8FvCZJ1DhWY",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "_WQasnBaJhA",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "wp3mmcRXHzY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "Dq9J5N0YxuI",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "ajlwmtzg-0U",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "VTsD3quZ5HE",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "6XbTboFL0nY",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "wjkazjYoQqo",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "sRI0yOcL71g",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "jtXFk0LNxhY",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "vcLL1tWG_kg",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "2XQBZvnt2bQ",
-    "kind": "short",
-    "sim": 0.11
-   },
-   {
-    "id": "zFeBhk6WU4M",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "biaDz-vGWd4",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "Ty-WEBF92d8",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "q6CHxddV_mA",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "7DoFMV1Dnow",
-    "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0.25
-   }
-  ],
-  "page-25": [
    {
     "id": "Ozz_LPaDFJc",
     "kind": "short",
-    "sim": 0.89
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
    },
    {
     "id": "5reVMmjNQik",
     "kind": "short",
-    "sim": 0.89
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
    },
    {
     "id": "LiAWJ79WX-Q",
     "kind": "video",
-    "sim": 0.6
-   },
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-06": [
    {
     "id": "NBx2IAu3nkw",
     "kind": "video",
-    "sim": 0.43
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
-    "id": "lEojrb-o3og",
+    "id": "Ysyuy6QVGnc",
     "kind": "short",
-    "sim": 0.67
+    "title": "Go for 4 rounds of 2 minutes"
    },
    {
-    "id": "PIDChhUQgXk",
+    "id": "cjYscJ-EWJA",
     "kind": "short",
-    "sim": 0.5
+    "title": "Basic boxing movement drill"
    },
    {
-    "id": "Bu22MtrXbgM",
+    "id": "IfqrxS_-8oU",
     "kind": "short",
-    "sim": 1
+    "title": "Jump Squats"
    },
    {
-    "id": "6bPowdrS90g",
+    "id": "HiNr7fR2wAk",
     "kind": "short",
-    "sim": 0.5
+    "title": "Go for 4 rounds of 2 minutes"
    },
    {
-    "id": "GpVpg3cOXJ0",
+    "id": "Upp_SMY01Us",
+    "kind": "short",
+    "title": "Go for 1 round of 2 minutes"
+   },
+   {
+    "id": "VTsD3quZ5HE",
+    "kind": "short",
+    "title": "Burpees - Fat loss workout"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "6XbTboFL0nY",
+    "kind": "short",
+    "title": "Boxing movement drill \ud83d\udd7a"
+   },
+   {
+    "id": "nB8UlPDLp-k",
+    "kind": "short",
+    "title": "Focus on defensive moves before each attack"
+   },
+   {
+    "id": "CRGneLQciW0",
+    "kind": "short",
+    "title": "Use different types of defence"
+   },
+   {
+    "id": "jtXFk0LNxhY",
+    "kind": "short",
+    "title": "Great drill for practicing your defensive skills"
+   },
+   {
+    "id": "Ftk-1CdLY_E",
+    "kind": "short",
+    "title": "Imagination is the key here \ud83d\ude4c"
+   },
+   {
+    "id": "6K7nDwLo9k8",
+    "kind": "short",
+    "title": "Throw punches for 45 sec and do exercises in between for 15 sec so you get 1 round of 4 min #boxing"
+   },
+   {
+    "id": "zFeBhk6WU4M",
+    "kind": "short",
+    "title": "Do 6-8 reps of each exercise #boxingtraining"
+   },
+   {
+    "id": "q6CHxddV_mA",
+    "kind": "short",
+    "title": "Plyo Push Ups"
+   },
+   {
+    "id": "biaDz-vGWd4",
+    "kind": "short",
+    "title": "Air Squat"
+   },
+   {
+    "id": "Ty-WEBF92d8",
     "kind": "video",
-    "sim": 0.25
+    "title": "Balanced knee tucks"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "ESgTNyhHhk4",
+    "kind": "video",
+    "title": "Skater Reaction Hops"
+   },
+   {
+    "id": "ujRWP3Iq66c",
+    "kind": "video",
+    "title": "Plate Reaction Hops"
+   },
+   {
+    "id": "Y5i5ArZ6Rn0",
+    "kind": "video",
+    "title": "Squat Jumps"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-07": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "SDIAYFiR8L8",
+    "kind": "short",
+    "title": "Go for 4 rounds of 2 minutes"
+   },
+   {
+    "id": "NVvGoOUTL04",
+    "kind": "short",
+    "title": "Do 1 round of 2 minutes"
+   },
+   {
+    "id": "76Nl1Fq3UPU",
+    "kind": "short",
+    "title": "Go for 4 rounds of 2 minutes"
+   },
+   {
+    "id": "jf2LEyjS2YQ",
+    "kind": "short",
+    "title": "Practice 4 groups of punches for 2 minutes each"
+   },
+   {
+    "id": "Bz4NFrfvR04",
+    "kind": "video",
+    "title": "Boxing Pad Workout for Beginners"
+   },
+   {
+    "id": "wOIU0dHkX3M",
+    "kind": "short",
+    "title": "Do 1 round of 2 minutes"
    },
    {
     "id": "pRt3AeSAYGk",
     "kind": "short",
-    "sim": 1
+    "title": "Boxing defensive drill \ud83d\udcaa"
    },
    {
-    "id": "p0n8g1FK37s",
+    "id": "pqkH_mRGXm0",
     "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "8hjBkjnMu5A",
-    "kind": "short",
-    "sim": 0.77
+    "title": "Do each drill for 45 seconds with 15 seconds of rest in between #boxing #shorts"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0
-   },
-   {
-    "id": "u1vHeFR4ptE",
-    "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "rdwMjyI_OOg",
-    "kind": "short",
-    "sim": 0.8
-   }
-  ],
-  "page-29": [
-   {
-    "id": "rdwMjyI_OOg",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "IfqrxS_-8oU",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "FZq5k7l13fI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 0.8
-   },
-   {
-    "id": "NBx2IAu3nkw",
-    "kind": "video",
-    "sim": 0.43
-   },
-   {
-    "id": "J3lbWzvMe3s",
-    "kind": "short",
-    "sim": 0.2
-   },
-   {
-    "id": "DNjf_KAjF4U",
-    "kind": "short",
-    "sim": 0.2
-   },
-   {
-    "id": "aGm5GWnHX34",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "wp3mmcRXHzY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "Dq9J5N0YxuI",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "6XbTboFL0nY",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "X1GvaP-NES4",
-    "kind": "short",
-    "sim": 0.22
-   },
-   {
-    "id": "n9nC7Q5H4ec",
-    "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "jtXFk0LNxhY",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "S5NqBQJRFRo",
-    "kind": "short",
-    "sim": 0.2
-   },
-   {
-    "id": "2XQBZvnt2bQ",
-    "kind": "short",
-    "sim": 0.11
-   },
-   {
-    "id": "ILToHLInKmI",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "VTsD3quZ5HE",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "Mo5vtCs7mkk",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "cCIWGpOGlFU",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "zFeBhk6WU4M",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "q6CHxddV_mA",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "7DoFMV1Dnow",
-    "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "Ty-WEBF92d8",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "biaDz-vGWd4",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0.25
-   },
-   {
-    "id": "8bv6hM59338",
-    "kind": "video",
-    "sim": 0.75
-   }
-  ],
-  "page-35": [
-   {
-    "id": "0uaktrbkytM",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "XXwCfzzUnKw",
-    "kind": "video",
-    "sim": 0.33
-   },
-   {
-    "id": "NaUV5TItJzE",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "fYp7wBoZ_Ms",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "8HJlKuzDe4E",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "CNlyLuig3_I",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "KbdAnd6NB1o",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "mLu99PoDBbg",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "8bv6hM59338",
-    "kind": "video",
-    "sim": 0.38
-   }
-  ]
- },
- "competitive": {
-  "page-4": [
-   {
-    "id": "NBx2IAu3nkw",
-    "kind": "video",
-    "sim": 0.43
-   },
-   {
-    "id": "5XqS6axEkq8",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "_eWoWFfQzUQ",
-    "kind": "short",
-    "sim": 0.63
-   },
-   {
-    "id": "P1_EUUJem4g",
-    "kind": "short",
-    "sim": 0.57
-   },
-   {
-    "id": "dMyfD4VQUiA",
-    "kind": "short",
-    "sim": 0.38
-   },
-   {
-    "id": "VLrgjGD_RB0",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "IC4-qPN51-8",
-    "kind": "short",
-    "sim": 0.42
-   },
-   {
-    "id": "h-rHHzvnm-Q",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "AOom7Fb6VI4",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Yg63X1zQZm4",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "qsY3IKUusTA",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Y37-Bo8EWKA",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "VMpxmbBI-GM",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0.5
-   }
-  ],
-  "weightlifting": [
-   {
-    "id": "8bv6hM59338",
-    "kind": "video",
-    "sim": 0.88
-   },
-   {
-    "id": "SCVCLChPQFY",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "1cVT3ee9mgU",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "lwYucFpyicQ",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "-bJIpOq-LWk",
-    "kind": "video",
-    "sim": 0.6
-   },
-   {
-    "id": "9v_aDcAszDU",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "RfhXevB-vdI",
-    "kind": "video",
-    "sim": 0.33
-   },
-   {
-    "id": "aAggnpPyR6E",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "KM7ZWGEcuMA",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "CCSQ72S_NI0",
-    "kind": "short",
-    "sim": 0.63
+    "title": "Follow Along Cool-Down"
    },
    {
     "id": "Ozz_LPaDFJc",
     "kind": "short",
-    "sim": 0.67
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
    },
    {
     "id": "5reVMmjNQik",
     "kind": "short",
-    "sim": 0.67
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
    },
    {
     "id": "LiAWJ79WX-Q",
     "kind": "video",
-    "sim": 1
-   },
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-08": [
    {
     "id": "NBx2IAu3nkw",
     "kind": "video",
-    "sim": 0.43
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "KwRWglSkoeU",
+    "kind": "short",
+    "title": "Focus on the body shot"
+   },
+   {
+    "id": "7QRBrxkd6ig",
+    "kind": "short",
+    "title": "Make him drop the guard to land the cross"
+   },
+   {
+    "id": "w1Xk1aNaK5E",
+    "kind": "short",
+    "title": "Finish them with the liver shot"
+   },
+   {
+    "id": "O73WMSW2Ynk",
+    "kind": "short",
+    "title": "Target the spleen or the floating rib with the hook"
+   },
+   {
+    "id": "Ci24H39KNBA",
+    "kind": "short",
+    "title": "Use the slip as a rest for the hook"
+   },
+   {
+    "id": "Fu8tfnmRB5k",
+    "kind": "short",
+    "title": "Notice the switched step footwork after the slip"
+   },
+   {
+    "id": "u-mHlgrE2MM",
+    "kind": "short",
+    "title": "Set up the last hook"
+   },
+   {
+    "id": "4DRYBlKaJco",
+    "kind": "short",
+    "title": "Effective close range boxing combo"
+   },
+   {
+    "id": "sQAVCBEfiqg",
+    "kind": "short",
+    "title": "Mike Tyson style combo"
+   },
+   {
+    "id": "BmOlxQ5fX6g",
+    "kind": "short",
+    "title": "Use this close range combo to dominate in the boxing ring"
+   },
+   {
+    "id": "DKxxXUcTxqM",
+    "kind": "short",
+    "title": "The \u201ccross\u201d boxing combo"
+   },
+   {
+    "id": "qEP3CuNPRoI",
+    "kind": "short",
+    "title": "Body-head boxing combo"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "q6CHxddV_mA",
+    "kind": "short",
+    "title": "Plyo Push Ups"
+   },
+   {
+    "id": "r2LKWUlCczs",
+    "kind": "short",
+    "title": "Mountain Climbers"
+   },
+   {
+    "id": "oYG9JVu3k38",
+    "kind": "video",
+    "title": "Punching Bag Boxing Workout | Audio Combinations"
+   },
+   {
+    "id": "YVpudYmtAGw",
+    "kind": "short",
+    "title": "Good way to practice defensive skills without a partner #boxing #shorts"
+   },
+   {
+    "id": "dGNolJ15xdw",
+    "kind": "short",
+    "title": "Speed and accuracy drill for boxing \ud83c\udfbe"
+   },
+   {
+    "id": "-NkpM5DYF2Y",
+    "kind": "short",
+    "title": "15 sec with dumbbells and 15 sec w/o for the 6 basic punches. 20 sec of rest in between #boxing"
+   },
+   {
+    "id": "vK-XgduCGS8",
+    "kind": "short",
+    "title": "Exact Way Of Doing Parallel Bar Dips"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "IlVleQhEANA",
+    "kind": "video",
+    "title": "Jumping Lunge - Jump Squats DEMO"
+   },
+   {
+    "id": "7DoFMV1Dnow",
+    "kind": "short",
+    "title": "STOP HANGING leg raises like this = ABS!"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   }
+  ],
+  "workout-09": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "mHZdlcsRNT0",
+    "kind": "short",
+    "title": "2 rounds of 1.5 minutes of shadow boxing in the frontal stance"
+   },
+   {
+    "id": "hqwyknGPlvM",
+    "kind": "short",
+    "title": "Do each progression for 1 minute with no rest in between \ud83d\ude24"
+   },
+   {
+    "id": "5_hXnKZTsZM",
+    "kind": "short",
+    "title": "Go for 1 round of 3 minutes"
+   },
+   {
+    "id": "JAXCraUP2_0",
+    "kind": "short",
+    "title": "Go for 3 rounds of 2 minutes"
+   },
+   {
+    "id": "hv_SjTmt278",
+    "kind": "video",
+    "title": "Sparring Session | Boxer Puncher"
+   },
+   {
+    "id": "P4oppYK5anw",
+    "kind": "short",
+    "title": "Practice each progression for 1 minute with no rest in between"
+   },
+   {
+    "id": "Z8b0PuYbDXk",
+    "kind": "short",
+    "title": "Do each drill for 45 seconds with 15 seconds of rest in between #boxing #boxingtraining"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "u1vHeFR4ptE",
+    "kind": "short",
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
+   },
+   {
+    "id": "rdwMjyI_OOg",
+    "kind": "short",
+    "title": "Do this drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "cCIWGpOGlFU",
+    "kind": "short",
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-10": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "E5yoxmT_n9s",
+    "kind": "short",
+    "title": "Go for 4 rounds of 1 minute. Practice each type of punches"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "vF7LMIpllTU",
+    "kind": "video",
+    "title": "Boxing Virtual Defence and Counterpunching Workout"
+   },
+   {
+    "id": "JkacHtlPYds",
+    "kind": "video",
+    "title": "Skater Hops"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "_d9mP__bxeU",
+    "kind": "short",
+    "title": "Boxing conditioning \ud83e\udd4a #boxing #boxingtraining #boxer #boxinglife #boxingshort"
+   },
+   {
+    "id": "9gdGBI5OsuM",
+    "kind": "short",
+    "title": "Boxing drill for footwork and coordination"
+   },
+   {
+    "id": "9h6FHbBzijE",
+    "kind": "short",
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "qhWStZa5ohg",
+    "kind": "video",
+    "title": "Perfecting your Front Squat Form!"
+   },
+   {
+    "id": "Pq1BdarTUYQ",
+    "kind": "video",
+    "title": "Long Hip Bridge"
+   },
+   {
+    "id": "JLGy0P0HSwA",
+    "kind": "video",
+    "title": "Seated Vertical Jumps"
+   },
+   {
+    "id": "SSKTV-m761U",
+    "kind": "short",
+    "title": "Pallof Press"
+   },
+   {
+    "id": "zqwH9fs0bEo",
+    "kind": "short",
+    "title": "Scab Push-Ups"
+   },
+   {
+    "id": "9CWjnuMaXXE",
+    "kind": "video",
+    "title": "Box Jump"
+   },
+   {
+    "id": "CNlyLuig3_I",
+    "kind": "video",
+    "title": "Hanging Leg Raises"
+   },
+   {
+    "id": "KbdAnd6NB1o",
+    "kind": "video",
+    "title": "Copenhagen Plank"
+   },
+   {
+    "id": "IQ3UF8EDBCc",
+    "kind": "video",
+    "title": "High plank bird dogs"
+   },
+   {
+    "id": "u1vHeFR4ptE",
+    "kind": "short",
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "jIBkXDJDTgI",
+    "kind": "short",
+    "title": "Medicine Ball Squat Toss"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "1PTb-3y7nJ8",
+    "kind": "video",
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
+   },
+   {
+    "id": "rdwMjyI_OOg",
+    "kind": "short",
+    "title": "Do this drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "cCIWGpOGlFU",
+    "kind": "short",
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "Z8b0PuYbDXk",
+    "kind": "short",
+    "title": "Do each drill for 45 seconds with 15 seconds of rest in between #boxing #boxingtraining"
+   }
+  ],
+  "workout-11": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "YCj_ATgi-VA",
+    "kind": "short",
+    "title": "Simple boxing drills for creating angles"
+   },
+   {
+    "id": "3Qs6qba5EOk",
+    "kind": "short",
+    "title": "Simple boxing drills for creating angles with pivots"
+   },
+   {
+    "id": "kaZCIytnlsQ",
+    "kind": "short",
+    "title": "7 December 2023"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "5_hXnKZTsZM",
+    "kind": "short",
+    "title": "Go for 1 round of 3 minutes"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "Dq9J5N0YxuI",
+    "kind": "short",
+    "title": "The different variations and goals of the MOUNTAIN CLIMBERS \u26f0\ufe0f"
+   },
+   {
+    "id": "6XbTboFL0nY",
+    "kind": "short",
+    "title": "Boxing movement drill \ud83d\udd7a"
+   },
+   {
+    "id": "T47047YI6X8",
+    "kind": "short",
+    "title": "Do it slowly with focus on pivots"
+   },
+   {
+    "id": "eMp1faih6oA",
+    "kind": "short",
+    "title": "2 punches - reload - 2 punches"
+   },
+   {
+    "id": "jtXFk0LNxhY",
+    "kind": "short",
+    "title": "Great drill for practicing your defensive skills"
+   },
+   {
+    "id": "YsRNwk2DNZI",
+    "kind": "short",
+    "title": "How to practice hooks \ud83e\ude9d"
+   },
+   {
+    "id": "yvKk-CUl_nM",
+    "kind": "short",
+    "title": "This one really makes your arms burn #boxing #shorts"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "cCIWGpOGlFU",
+    "kind": "short",
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
+   },
+   {
+    "id": "nRzUGJ9PgPQ",
+    "kind": "short",
+    "title": "Simple boxing drill \ud83d\udcaa"
+   },
+   {
+    "id": "VTsD3quZ5HE",
+    "kind": "short",
+    "title": "Burpees - Fat loss workout"
+   },
+   {
+    "id": "zFeBhk6WU4M",
+    "kind": "short",
+    "title": "Do 6-8 reps of each exercise #boxingtraining"
+   },
+   {
+    "id": "q6CHxddV_mA",
+    "kind": "short",
+    "title": "Plyo Push Ups"
+   },
+   {
+    "id": "7DoFMV1Dnow",
+    "kind": "short",
+    "title": "STOP HANGING leg raises like this = ABS!"
+   },
+   {
+    "id": "Ty-WEBF92d8",
+    "kind": "video",
+    "title": "Balanced knee tucks"
+   },
+   {
+    "id": "biaDz-vGWd4",
+    "kind": "short",
+    "title": "Air Squat"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "Q5Qelt-Vlbg",
+    "kind": "video",
+    "title": "Med Ball Slams"
+   },
+   {
+    "id": "Y5i5ArZ6Rn0",
+    "kind": "video",
+    "title": "Squat Jumps"
+   },
+   {
+    "id": "xQG-eY32Jdw",
+    "kind": "video",
+    "title": "Split Jump Switches"
+   },
+   {
+    "id": "YI--Lad5QAc",
+    "kind": "video",
+    "title": "Broad to 180\u00b0 Vert to Broad"
+   },
+   {
+    "id": "tzRoVFHVw7M",
+    "kind": "video",
+    "title": "Max Vertical Jump"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-12": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "WDvsjeA-RvM",
+    "kind": "short",
+    "title": "4 boxing drills for beginners"
+   },
+   {
+    "id": "pOMvUdr9G4Y",
+    "kind": "short",
+    "title": "1 step of learning boxing pendulum step"
+   },
+   {
+    "id": "P4Xpwq_NM1c",
+    "kind": "short",
+    "title": "Simple boxing drills for creating angles"
+   },
+   {
+    "id": "Egx_dUGEEYE",
+    "kind": "short",
+    "title": "Practice this boxing drill for 2 minutes"
+   },
+   {
+    "id": "6Hfn609WwwA",
+    "kind": "short",
+    "title": "Practice this boxing drill for 2 minutes"
+   },
+   {
+    "id": "FE3Tq69ku_Y",
+    "kind": "video",
+    "title": "Virtual Boxing Pad Work Session"
+   },
+   {
+    "id": "pRt3AeSAYGk",
+    "kind": "short",
+    "title": "Boxing defensive drill \ud83d\udcaa"
+   },
+   {
+    "id": "p0n8g1FK37s",
+    "kind": "short",
+    "title": "Footwork drill that will make your calves burn \ud83d\udd25 #boxing #fitness"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-13": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "PX243y6Ssx8",
+    "kind": "short",
+    "title": "Work on different levels \ud83e\udd4a"
+   },
+   {
+    "id": "Eaqccx9eie0",
+    "kind": "short",
+    "title": "Set up the hook to the body \ud83e\ude9d"
+   },
+   {
+    "id": "OxoBnnzxfQU",
+    "kind": "short",
+    "title": "Soviet style boxing combo"
+   },
+   {
+    "id": "c3Y6a53kRnE",
+    "kind": "short",
+    "title": "Focus on creating the angle"
+   },
+   {
+    "id": "a9SV08McTT4",
+    "kind": "short",
+    "title": "Head-body-head boxing combo"
+   },
+   {
+    "id": "Atl4PL0qVwg",
+    "kind": "short",
+    "title": "Notice the switched step footwork after the slip"
+   },
+   {
+    "id": "SFY_pSWjPa4",
+    "kind": "short",
+    "title": "Focus on creating the angle"
+   },
+   {
+    "id": "hZOcCjbytDw",
+    "kind": "short",
+    "title": "Focus on the angle creation"
+   },
+   {
+    "id": "RYPYFiLPOo4",
+    "kind": "short",
+    "title": "Mike Tyson style combo"
+   },
+   {
+    "id": "EMWcf1FHcJs",
+    "kind": "short",
+    "title": "Close range boxing combo"
+   },
+   {
+    "id": "DKxxXUcTxqM",
+    "kind": "short",
+    "title": "The \u201ccross\u201d boxing combo"
+   },
+   {
+    "id": "qEP3CuNPRoI",
+    "kind": "short",
+    "title": "Body-head boxing combo"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "r2LKWUlCczs",
+    "kind": "short",
+    "title": "Mountain Climbers"
+   },
+   {
+    "id": "q6CHxddV_mA",
+    "kind": "short",
+    "title": "Plyo Push Ups"
+   },
+   {
+    "id": "oYG9JVu3k38",
+    "kind": "video",
+    "title": "Punching Bag Boxing Workout | Audio Combinations"
+   },
+   {
+    "id": "hqwyknGPlvM",
+    "kind": "short",
+    "title": "Do each progression for 1 minute with no rest in between \ud83d\ude24"
+   },
+   {
+    "id": "hcyV2ahXEoE",
+    "kind": "short",
+    "title": "Shadow box with a tennis ball tucked to your ribs"
+   },
+   {
+    "id": "-NkpM5DYF2Y",
+    "kind": "short",
+    "title": "15 sec with dumbbells and 15 sec w/o for the 6 basic punches. 20 sec of rest in between #boxing"
+   },
+   {
+    "id": "vK-XgduCGS8",
+    "kind": "short",
+    "title": "Exact Way Of Doing Parallel Bar Dips"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "IlVleQhEANA",
+    "kind": "video",
+    "title": "Jumping Lunge - Jump Squats DEMO"
+   },
+   {
+    "id": "7DoFMV1Dnow",
+    "kind": "short",
+    "title": "STOP HANGING leg raises like this = ABS!"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "ESgTNyhHhk4",
+    "kind": "video",
+    "title": "Skater Reaction Hops"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "ujRWP3Iq66c",
+    "kind": "video",
+    "title": "Plate Reaction Hops"
+   },
+   {
+    "id": "Y5i5ArZ6Rn0",
+    "kind": "video",
+    "title": "Squat Jumps"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "rdwMjyI_OOg",
+    "kind": "short",
+    "title": "Do this drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   }
+  ],
+  "workout-14": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "_DpUmwFrEHo",
+    "kind": "short",
+    "title": "Practice straights, hooks, uppercuts and body shots for 1 min. Rest for 20 sec between rounds"
+   },
+   {
+    "id": "JQD1GheJVvs",
+    "kind": "short",
+    "title": "Practice each of the 6 basic punches for 45 sec with 15 sec of rest in between #boxing"
+   },
+   {
+    "id": "uVaHYp-cMyQ",
+    "kind": "short",
+    "title": "Practice this defensive drill for 2 minutes"
+   },
+   {
+    "id": "rOB7265jI_I",
+    "kind": "video",
+    "title": "Sparring Session | Southpaw"
+   },
+   {
+    "id": "ZrxKR91m2eo",
+    "kind": "short",
+    "title": "Focus on implementing pivots in the 3rd round"
+   },
+   {
+    "id": "nRzUGJ9PgPQ",
+    "kind": "short",
+    "title": "Simple boxing drill \ud83d\udcaa"
+   },
+   {
+    "id": "P4oppYK5anw",
+    "kind": "short",
+    "title": "Practice each progression for 1 minute with no rest in between"
+   },
+   {
+    "id": "C5HWvUJUV88",
+    "kind": "short",
+    "title": "Do each drill for 45 sec with 15 sec of rest in between. Go for 1-2 rounds like this #boxing"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "rdwMjyI_OOg",
+    "kind": "short",
+    "title": "Do this drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   }
+  ],
+  "workout-15": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "_Kg76bnOzlQ",
+    "kind": "short",
+    "title": "Practice each type of punches for 2 minutes \ud83e\udd4a"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "vF7LMIpllTU",
+    "kind": "video",
+    "title": "Boxing Virtual Defence and Counterpunching Workout"
+   },
+   {
+    "id": "JkacHtlPYds",
+    "kind": "video",
+    "title": "Skater Hops"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "_d9mP__bxeU",
+    "kind": "short",
+    "title": "Boxing conditioning \ud83e\udd4a #boxing #boxingtraining #boxer #boxinglife #boxingshort"
+   },
+   {
+    "id": "p9BkWafAACg",
+    "kind": "short",
+    "title": "Knock down simulator boxing drill"
+   },
+   {
+    "id": "9h6FHbBzijE",
+    "kind": "short",
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "jIBkXDJDTgI",
+    "kind": "short",
+    "title": "Medicine Ball Squat Toss"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "1PTb-3y7nJ8",
+    "kind": "video",
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "JLGy0P0HSwA",
+    "kind": "video",
+    "title": "Seated Vertical Jumps"
+   },
+   {
+    "id": "zqwH9fs0bEo",
+    "kind": "short",
+    "title": "Scab Push-Ups"
+   },
+   {
+    "id": "9CWjnuMaXXE",
+    "kind": "video",
+    "title": "Box Jump"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "rdwMjyI_OOg",
+    "kind": "short",
+    "title": "Do this drill for 1 round of 2 minutes"
+   }
+  ],
+  "workout-16": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "xJmlmO5Hguc",
+    "kind": "short",
+    "title": "Simple drills for creating angles in boxing"
+   },
+   {
+    "id": "8FvCZJ1DhWY",
+    "kind": "short",
+    "title": "Drills for angle creation \ud83e\udd4a"
+   },
+   {
+    "id": "_WQasnBaJhA",
+    "kind": "short",
+    "title": "Practice this drill for 2 minutes in each stance"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "Dq9J5N0YxuI",
+    "kind": "short",
+    "title": "The different variations and goals of the MOUNTAIN CLIMBERS \u26f0\ufe0f"
+   },
+   {
+    "id": "ajlwmtzg-0U",
+    "kind": "short",
+    "title": "Interesting shadow boxing drill"
+   },
+   {
+    "id": "VTsD3quZ5HE",
+    "kind": "short",
+    "title": "Burpees - Fat loss workout"
+   },
+   {
+    "id": "6XbTboFL0nY",
+    "kind": "short",
+    "title": "Boxing movement drill \ud83d\udd7a"
+   },
+   {
+    "id": "wjkazjYoQqo",
+    "kind": "short",
+    "title": "Drill for creating angles \ud83d\udcd0"
+   },
+   {
+    "id": "sRI0yOcL71g",
+    "kind": "short",
+    "title": "Create angles like Loma"
+   },
+   {
+    "id": "jtXFk0LNxhY",
+    "kind": "short",
+    "title": "Great drill for practicing your defensive skills"
+   },
+   {
+    "id": "vcLL1tWG_kg",
+    "kind": "short",
+    "title": "Practice counter punches with with a heavy bag \ud83e\udd4a"
+   },
+   {
+    "id": "2XQBZvnt2bQ",
+    "kind": "short",
+    "title": "Full body resistance bands make the process much more challenging"
+   },
+   {
+    "id": "zFeBhk6WU4M",
+    "kind": "short",
+    "title": "Do 6-8 reps of each exercise #boxingtraining"
+   },
+   {
+    "id": "biaDz-vGWd4",
+    "kind": "short",
+    "title": "Air Squat"
+   },
+   {
+    "id": "Ty-WEBF92d8",
+    "kind": "video",
+    "title": "Balanced knee tucks"
+   },
+   {
+    "id": "q6CHxddV_mA",
+    "kind": "short",
+    "title": "Plyo Push Ups"
+   },
+   {
+    "id": "7DoFMV1Dnow",
+    "kind": "short",
+    "title": "STOP HANGING leg raises like this = ABS!"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-17": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "RFgKbmOod6U",
+    "kind": "short",
+    "title": "Drills for creating angles in boxing"
+   },
+   {
+    "id": "pOMvUdr9G4Y",
+    "kind": "short",
+    "title": "1 step of learning boxing pendulum step"
+   },
+   {
+    "id": "L4wpaWbIlQI",
+    "kind": "short",
+    "title": "Creating angles in boxing \ud83e\udd4a"
+   },
+   {
+    "id": "VnOTTVXlzQ0",
+    "kind": "short",
+    "title": "Great drill for beginners #boxing #shorts"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "nWuZRgUoNWc",
+    "kind": "video",
+    "title": "Virtual Pad Workout for Boxing"
+   },
+   {
+    "id": "zx9rIRzbxWI",
+    "kind": "short",
+    "title": "Boxing defensive drill in the opposite stance"
+   },
+   {
+    "id": "pqkH_mRGXm0",
+    "kind": "short",
+    "title": "Do each drill for 45 seconds with 15 seconds of rest in between #boxing #shorts"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-18": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "2f9J6hEWkjQ",
+    "kind": "short",
+    "title": "Simple boxing combo"
+   },
+   {
+    "id": "bplcNZKqtbM",
+    "kind": "short",
+    "title": "Set up the liver shot \ud83d\udc4a"
+   },
+   {
+    "id": "xBz3nyZCUYY",
+    "kind": "short",
+    "title": "Notice the switched step footwork after the slip"
+   },
+   {
+    "id": "JzOGj5n9wLU",
+    "kind": "short",
+    "title": "KO boxing combo"
+   },
+   {
+    "id": "QlQ0df_Yjl8",
+    "kind": "short",
+    "title": "Loma style boxing combo"
+   },
+   {
+    "id": "Ri4avAtE-g8",
+    "kind": "short",
+    "title": "Boxing combo with an angle"
+   },
+   {
+    "id": "lcGbbXsJr2g",
+    "kind": "short",
+    "title": "Combo for short boxers"
+   },
+   {
+    "id": "jqDwgDf1JSo",
+    "kind": "short",
+    "title": "Close range combo wins angle"
+   },
+   {
+    "id": "FU_P_kDHKeI",
+    "kind": "short",
+    "title": "Mike Tyson style combo"
+   },
+   {
+    "id": "5kadzemmVAs",
+    "kind": "short",
+    "title": "Mike Tyson KO combo"
+   },
+   {
+    "id": "DKxxXUcTxqM",
+    "kind": "short",
+    "title": "The \u201ccross\u201d boxing combo"
+   },
+   {
+    "id": "qEP3CuNPRoI",
+    "kind": "short",
+    "title": "Body-head boxing combo"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "q6CHxddV_mA",
+    "kind": "short",
+    "title": "Plyo Push Ups"
+   },
+   {
+    "id": "r2LKWUlCczs",
+    "kind": "short",
+    "title": "Mountain Climbers"
+   },
+   {
+    "id": "oYG9JVu3k38",
+    "kind": "video",
+    "title": "Punching Bag Boxing Workout | Audio Combinations"
+   },
+   {
+    "id": "hqwyknGPlvM",
+    "kind": "short",
+    "title": "Do each progression for 1 minute with no rest in between \ud83d\ude24"
+   },
+   {
+    "id": "CgGu9eofSI0",
+    "kind": "short",
+    "title": "Throw fast and accurate uppercuts with this drill \ud83c\udfbe"
+   },
+   {
+    "id": "-NkpM5DYF2Y",
+    "kind": "short",
+    "title": "15 sec with dumbbells and 15 sec w/o for the 6 basic punches. 20 sec of rest in between #boxing"
+   },
+   {
+    "id": "vK-XgduCGS8",
+    "kind": "short",
+    "title": "Exact Way Of Doing Parallel Bar Dips"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "IlVleQhEANA",
+    "kind": "video",
+    "title": "Jumping Lunge - Jump Squats DEMO"
+   },
+   {
+    "id": "7DoFMV1Dnow",
+    "kind": "short",
+    "title": "STOP HANGING leg raises like this = ABS!"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-19": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "lEojrb-o3og",
+    "kind": "short",
+    "title": "Boxing drill for beginners \ud83e\udd4a #boxing"
+   },
+   {
+    "id": "PIDChhUQgXk",
+    "kind": "short",
+    "title": "Boxing defence \ud83d\udcaa"
+   },
+   {
+    "id": "Bu22MtrXbgM",
+    "kind": "short",
+    "title": "Practice each of the 6 basic punches for 45 sec with 15 sec of rest in between #boxingtraining"
+   },
+   {
+    "id": "6bPowdrS90g",
+    "kind": "short",
+    "title": "Focus on the weight shifts and pivots in the last round"
+   },
+   {
+    "id": "GpVpg3cOXJ0",
+    "kind": "video",
+    "title": "Sparring Session | Taller Opponent"
+   },
+   {
+    "id": "pRt3AeSAYGk",
+    "kind": "short",
+    "title": "Boxing defensive drill \ud83d\udcaa"
+   },
+   {
+    "id": "p0n8g1FK37s",
+    "kind": "short",
+    "title": "Footwork drill that will make your calves burn \ud83d\udd25 #boxing #fitness"
+   },
+   {
+    "id": "8hjBkjnMu5A",
+    "kind": "short",
+    "title": "Do each drill for 30 seconds. Go for 3 rounds like that with 45 seconds of rest in between #boxing"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "u1vHeFR4ptE",
+    "kind": "short",
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
+   },
+   {
+    "id": "rdwMjyI_OOg",
+    "kind": "short",
+    "title": "Do this drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-20": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "nooKhPoEoQw",
+    "kind": "short",
+    "title": "Simple boxing drill"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "vF7LMIpllTU",
+    "kind": "video",
+    "title": "Boxing Virtual Defence and Counterpunching Workout"
+   },
+   {
+    "id": "JkacHtlPYds",
+    "kind": "video",
+    "title": "Skater Hops"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "wLMYHme4HxM",
+    "kind": "short",
+    "title": "Start slowly and be careful not to hurt your fingers #boxing #shorts"
+   },
+   {
+    "id": "9h6FHbBzijE",
+    "kind": "short",
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
+   },
+   {
+    "id": "u1vHeFR4ptE",
+    "kind": "short",
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "jIBkXDJDTgI",
+    "kind": "short",
+    "title": "Medicine Ball Squat Toss"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "1PTb-3y7nJ8",
+    "kind": "video",
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "XXwCfzzUnKw",
+    "kind": "video",
+    "title": "Continuous Broad Jump"
+   },
+   {
+    "id": "NaUV5TItJzE",
+    "kind": "video",
+    "title": "Med Ball Split Stance Wall Toss"
+   },
+   {
+    "id": "fYp7wBoZ_Ms",
+    "kind": "video",
+    "title": "Med Ball Chest Pass"
+   },
+   {
+    "id": "8HJlKuzDe4E",
+    "kind": "video",
+    "title": "Skater Hops"
+   },
+   {
+    "id": "rdwMjyI_OOg",
+    "kind": "short",
+    "title": "Do this drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-21": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "J3lbWzvMe3s",
+    "kind": "short",
+    "title": "Simple drills to master the check hook \ud83e\ude9d"
+   },
+   {
+    "id": "DNjf_KAjF4U",
+    "kind": "short",
+    "title": "Master the check hook with these drills"
+   },
+   {
+    "id": "aGm5GWnHX34",
+    "kind": "short",
+    "title": "Boxing drills for beginners"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "Dq9J5N0YxuI",
+    "kind": "short",
+    "title": "The different variations and goals of the MOUNTAIN CLIMBERS \u26f0\ufe0f"
+   },
+   {
+    "id": "6XbTboFL0nY",
+    "kind": "short",
+    "title": "Boxing movement drill \ud83d\udd7a"
+   },
+   {
+    "id": "X1GvaP-NES4",
+    "kind": "short",
+    "title": "Use weight shift after defence to get the best attacking position"
+   },
+   {
+    "id": "n9nC7Q5H4ec",
+    "kind": "short",
+    "title": "Create angles by using pivots and weight shifts"
+   },
+   {
+    "id": "jtXFk0LNxhY",
+    "kind": "short",
+    "title": "Great drill for practicing your defensive skills"
+   },
+   {
+    "id": "S5NqBQJRFRo",
+    "kind": "short",
+    "title": "Practice check hooks with a heavy bag \ud83e\ude9d"
+   },
+   {
+    "id": "2XQBZvnt2bQ",
+    "kind": "short",
+    "title": "Full body resistance bands make the process much more challenging"
+   },
+   {
+    "id": "ILToHLInKmI",
+    "kind": "short",
+    "title": "Creative shadow boxing drill"
+   },
+   {
+    "id": "VTsD3quZ5HE",
+    "kind": "short",
+    "title": "Burpees - Fat loss workout"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "cCIWGpOGlFU",
+    "kind": "short",
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
+   },
+   {
+    "id": "zFeBhk6WU4M",
+    "kind": "short",
+    "title": "Do 6-8 reps of each exercise #boxingtraining"
+   },
+   {
+    "id": "q6CHxddV_mA",
+    "kind": "short",
+    "title": "Plyo Push Ups"
+   },
+   {
+    "id": "7DoFMV1Dnow",
+    "kind": "short",
+    "title": "STOP HANGING leg raises like this = ABS!"
+   },
+   {
+    "id": "Ty-WEBF92d8",
+    "kind": "video",
+    "title": "Balanced knee tucks"
+   },
+   {
+    "id": "biaDz-vGWd4",
+    "kind": "short",
+    "title": "Air Squat"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "Q5Qelt-Vlbg",
+    "kind": "video",
+    "title": "Med Ball Slams"
+   },
+   {
+    "id": "Y5i5ArZ6Rn0",
+    "kind": "video",
+    "title": "Squat Jumps"
+   },
+   {
+    "id": "xQG-eY32Jdw",
+    "kind": "video",
+    "title": "Split Jump Switches"
+   },
+   {
+    "id": "YI--Lad5QAc",
+    "kind": "video",
+    "title": "Broad to 180\u00b0 Vert to Broad"
+   },
+   {
+    "id": "tzRoVFHVw7M",
+    "kind": "video",
+    "title": "Max Vertical Jump"
+   },
+   {
+    "id": "rdwMjyI_OOg",
+    "kind": "short",
+    "title": "Do this drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-22": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "8Gs2mVqGU6s",
+    "kind": "short",
+    "title": "Boxing check hook drills"
+   },
+   {
+    "id": "RZrajcY1LXY",
+    "kind": "short",
+    "title": "Simple drills for advanced boxing skills \ud83e\udd4a"
+   },
+   {
+    "id": "gkRdX80CPfw",
+    "kind": "short",
+    "title": "Boxing attack&defence \ud83d\udcaa"
+   },
+   {
+    "id": "1lNCj3qvhic",
+    "kind": "video",
+    "title": "Virtual Boxing Pad Work Session"
+   },
+   {
+    "id": "ZdwhlOqAG-I",
+    "kind": "short",
+    "title": "#boxing #boxingshort #mma #boxingring #boxingshorts #boxer #workout"
+   },
+   {
+    "id": "pRt3AeSAYGk",
+    "kind": "short",
+    "title": "Boxing defensive drill \ud83d\udcaa"
+   },
+   {
+    "id": "pqkH_mRGXm0",
+    "kind": "short",
+    "title": "Do each drill for 45 seconds with 15 seconds of rest in between #boxing #shorts"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   }
+  ],
+  "workout-23": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "EzfRukRldIQ",
+    "kind": "short",
+    "title": "Change levels to set up the hook"
+   },
+   {
+    "id": "zke6oZ2MdRc",
+    "kind": "short",
+    "title": "Head-body boxing combo"
+   },
+   {
+    "id": "JzOGj5n9wLU",
+    "kind": "short",
+    "title": "KO boxing combo"
+   },
+   {
+    "id": "Dw6bD59CSVY",
+    "kind": "short",
+    "title": "Set up that right hook"
+   },
+   {
+    "id": "QlQ0df_Yjl8",
+    "kind": "short",
+    "title": "Loma style boxing combo"
+   },
+   {
+    "id": "Ri4avAtE-g8",
+    "kind": "short",
+    "title": "Boxing combo with an angle"
+   },
+   {
+    "id": "ZUDU_WW3aA8",
+    "kind": "short",
+    "title": "Practice the check-hook with a bag"
+   },
+   {
+    "id": "_InWVnhdwbQ",
+    "kind": "short",
+    "title": "Counter attacking boxing combo"
+   },
+   {
+    "id": "FU_P_kDHKeI",
+    "kind": "short",
+    "title": "Mike Tyson style combo"
+   },
+   {
+    "id": "5kadzemmVAs",
+    "kind": "short",
+    "title": "Mike Tyson KO combo"
+   },
+   {
+    "id": "4DRYBlKaJco",
+    "kind": "short",
+    "title": "Effective close range boxing combo"
+   },
+   {
+    "id": "u-mHlgrE2MM",
+    "kind": "short",
+    "title": "Set up the last hook"
+   },
+   {
+    "id": "r2LKWUlCczs",
+    "kind": "short",
+    "title": "Mountain Climbers"
+   },
+   {
+    "id": "q6CHxddV_mA",
+    "kind": "short",
+    "title": "Plyo Push Ups"
+   },
+   {
+    "id": "1lNCj3qvhic",
+    "kind": "video",
+    "title": "Virtual Boxing Pad Work Session"
+   },
+   {
+    "id": "hqwyknGPlvM",
+    "kind": "short",
+    "title": "Do each progression for 1 minute with no rest in between \ud83d\ude24"
+   },
+   {
+    "id": "dGNolJ15xdw",
+    "kind": "short",
+    "title": "Speed and accuracy drill for boxing \ud83c\udfbe"
+   },
+   {
+    "id": "-NkpM5DYF2Y",
+    "kind": "short",
+    "title": "15 sec with dumbbells and 15 sec w/o for the 6 basic punches. 20 sec of rest in between #boxing"
+   },
+   {
+    "id": "vK-XgduCGS8",
+    "kind": "short",
+    "title": "Exact Way Of Doing Parallel Bar Dips"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "IlVleQhEANA",
+    "kind": "video",
+    "title": "Jumping Lunge - Jump Squats DEMO"
+   },
+   {
+    "id": "7DoFMV1Dnow",
+    "kind": "short",
+    "title": "STOP HANGING leg raises like this = ABS!"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "ESgTNyhHhk4",
+    "kind": "video",
+    "title": "Skater Reaction Hops"
+   },
+   {
+    "id": "ujRWP3Iq66c",
+    "kind": "video",
+    "title": "Plate Reaction Hops"
+   },
+   {
+    "id": "Y5i5ArZ6Rn0",
+    "kind": "video",
+    "title": "Squat Jumps"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   }
+  ],
+  "workout-24": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "vyS4iGeIPj4",
+    "kind": "short",
+    "title": "Practice each of the 6 basic punches this way"
+   },
+   {
+    "id": "t3c8vMGUGoU",
+    "kind": "short",
+    "title": "Dodge punches like a pro"
+   },
+   {
+    "id": "BeOXzXVGVYA",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes"
+   },
+   {
+    "id": "aWpvQSJxSvU",
+    "kind": "short",
+    "title": "Focus on the pivots, shifts and side steps in the last round"
+   },
+   {
+    "id": "fFPPz3tiRWs",
+    "kind": "video",
+    "title": "Sparring Session | Short Opponent"
+   },
+   {
+    "id": "P4oppYK5anw",
+    "kind": "short",
+    "title": "Practice each progression for 1 minute with no rest in between"
+   },
+   {
+    "id": "Z8b0PuYbDXk",
+    "kind": "short",
+    "title": "Do each drill for 45 seconds with 15 seconds of rest in between #boxing #boxingtraining"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "rdwMjyI_OOg",
+    "kind": "short",
+    "title": "Do this drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   }
+  ],
+  "workout-25": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "CO1N37_8L8E",
+    "kind": "short",
+    "title": "Practice different types of punches this way"
+   },
+   {
+    "id": "IfqrxS_-8oU",
+    "kind": "short",
+    "title": "Jump Squats"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "vF7LMIpllTU",
+    "kind": "video",
+    "title": "Boxing Virtual Defence and Counterpunching Workout"
+   },
+   {
+    "id": "JkacHtlPYds",
+    "kind": "video",
+    "title": "Skater Hops"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "9h6FHbBzijE",
+    "kind": "short",
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "jIBkXDJDTgI",
+    "kind": "short",
+    "title": "Medicine Ball Squat Toss"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "1PTb-3y7nJ8",
+    "kind": "video",
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "XXwCfzzUnKw",
+    "kind": "video",
+    "title": "Continuous Broad Jump"
+   },
+   {
+    "id": "NaUV5TItJzE",
+    "kind": "video",
+    "title": "Med Ball Split Stance Wall Toss"
+   },
+   {
+    "id": "fYp7wBoZ_Ms",
+    "kind": "video",
+    "title": "Med Ball Chest Pass"
+   },
+   {
+    "id": "8HJlKuzDe4E",
+    "kind": "video",
+    "title": "Skater Hops"
+   }
+  ],
+  "weightlifting": [
+   {
+    "id": "6EgZIxpiET8",
+    "kind": "video",
+    "title": "Hex Bar Deadlift #gym"
+   },
+   {
+    "id": "_EjbMlRxcro",
+    "kind": "video",
+    "title": "High Plank w/ \u201cY\u201d Arm Raise"
+   },
+   {
+    "id": "Sr3mkCXxcP8",
+    "kind": "video",
+    "title": "Squat Rocks #gym"
+   },
+   {
+    "id": "xyPpnPITAvk",
+    "kind": "video",
+    "title": "Perfect your Bench Press Form!"
+   },
+   {
+    "id": "Xwn7eMqb3mE",
+    "kind": "video",
+    "title": "Pendlay Rows #gym"
+   },
+   {
+    "id": "-nYXXOYdfEw",
+    "kind": "video",
+    "title": "Eccentric Pull-Ups"
+   },
+   {
+    "id": "FHU-ssiHPaQ",
+    "kind": "video",
+    "title": "Alternating Split Squats"
+   },
+   {
+    "id": "88EACyTz-e0",
+    "kind": "video",
+    "title": "Seated Dumbbell Z-Press"
+   },
+   {
+    "id": "S7Ka6685B1U",
+    "kind": "video",
+    "title": "Chest Supported Reverse \u201cY\u201d Raise"
+   },
+   {
+    "id": "De8K8OHthqM",
+    "kind": "video",
+    "title": "Kettlebell Swings"
+   },
+   {
+    "id": "qFwUiUkMlFg",
+    "kind": "video",
+    "title": "Landmine Squat to Press"
+   },
+   {
+    "id": "e9-PPOKLWDs",
+    "kind": "video",
+    "title": "Landmine switch press"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "8-VWHlNnl4U",
+    "kind": "video",
+    "title": "Back Squats"
+   },
+   {
+    "id": "D_MDU7C4YAc",
+    "kind": "video",
+    "title": "Hip Airplanes"
+   },
+   {
+    "id": "O0j2lIr7LVk",
+    "kind": "video",
+    "title": "Depth Drops #gym"
+   },
+   {
+    "id": "SSKTV-m761U",
+    "kind": "short",
+    "title": "Pallof Press"
+   },
+   {
+    "id": "gc157ERt3_A",
+    "kind": "video",
+    "title": "Towel Grip Inverted Row"
+   },
+   {
+    "id": "NJGIOVioIV4",
+    "kind": "video",
+    "title": "Single Arm Dumbbell Overhead Walk"
+   },
+   {
+    "id": "OAmGrq3f-Vc",
+    "kind": "video",
+    "title": "Alternating Dumbbell Incline Press"
+   },
+   {
+    "id": "KbdAnd6NB1o",
+    "kind": "video",
+    "title": "Copenhagen Plank"
+   },
+   {
+    "id": "B8m5zKbCutI",
+    "kind": "video",
+    "title": "Beginner to Advanced Neutral Grip Chin Up #gym"
+   },
+   {
+    "id": "rxmFrPOYi2g",
+    "kind": "video",
+    "title": "Single Arm Snatch #gym"
+   },
+   {
+    "id": "qhWStZa5ohg",
+    "kind": "video",
+    "title": "Perfecting your Front Squat Form!"
+   },
+   {
+    "id": "Pq1BdarTUYQ",
+    "kind": "video",
+    "title": "Long Hip Bridge"
+   },
+   {
+    "id": "CNlyLuig3_I",
+    "kind": "video",
+    "title": "Hanging Leg Raises"
+   },
+   {
+    "id": "IQ3UF8EDBCc",
+    "kind": "video",
+    "title": "High plank bird dogs"
+   },
+   {
+    "id": "sg-cF1PVbb4",
+    "kind": "video",
+    "title": "Perfecting your Back Squat Form!"
+   },
+   {
+    "id": "0uaktrbkytM",
+    "kind": "video",
+    "title": "Glute Bridge Opens"
+   },
+   {
+    "id": "mLu99PoDBbg",
+    "kind": "video",
+    "title": "High Plank Shoulder Taps #gym"
+   }
+  ]
+ },
+ "competitive": {
+  "workout-01": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "5XqS6axEkq8",
+    "kind": "short",
+    "title": "6 rounds of 3 minutes with 1 minute of rest in between"
+   },
+   {
+    "id": "_eWoWFfQzUQ",
+    "kind": "short",
+    "title": "Practice each group of punches for 1 minute with 20 seconds of rest"
+   },
+   {
+    "id": "P1_EUUJem4g",
+    "kind": "short",
+    "title": "Do each progression for 1 minute with no rest in between"
+   },
+   {
+    "id": "dMyfD4VQUiA",
+    "kind": "short",
+    "title": "1 set of 10 reps for each exercise with no rest in between"
+   },
+   {
+    "id": "VLrgjGD_RB0",
+    "kind": "short",
+    "title": "Do each progression for 1 minute with no rest in between. 1 round of 3 minutes"
+   },
+   {
+    "id": "IC4-qPN51-8",
+    "kind": "short",
+    "title": "Boxing Footwork Drills to Boost Your Skills. Each progression for 1 minute with no rest in between"
+   },
+   {
+    "id": "h-rHHzvnm-Q",
+    "kind": "short",
+    "title": "Go for 1 round of 3 minutes"
+   },
+   {
+    "id": "AOom7Fb6VI4",
+    "kind": "short",
+    "title": "Punches + isometric hold"
+   },
+   {
+    "id": "Yg63X1zQZm4",
+    "kind": "short",
+    "title": "Up and down punches"
+   },
+   {
+    "id": "qsY3IKUusTA",
+    "kind": "short",
+    "title": "Hammers"
+   },
+   {
+    "id": "Y37-Bo8EWKA",
+    "kind": "short",
+    "title": "Freestyle shoulder conditioning"
+   },
+   {
+    "id": "VMpxmbBI-GM",
+    "kind": "short",
+    "title": "Freestyle shadow boxing"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-02": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
     "id": "eNUvSQ3WlNY",
     "kind": "short",
-    "sim": 0.86
+    "title": "1 round of 2 minutes. Switch your feet after 1 minute"
    },
    {
     "id": "YLY_m2qVaUY",
     "kind": "short",
-    "sim": 1
+    "title": "2 rounds of 2 minutes"
    },
    {
     "id": "P5Ll6xSXT-E",
     "kind": "short",
-    "sim": 0.83
+    "title": "1 round of 2 minutes. Switch hands after 1 minute"
    },
    {
     "id": "-a1GZoE16Dk",
     "kind": "short",
-    "sim": 1
+    "title": "10 push-ups, 20 climbers and 10 jumps with no rest in between"
    },
    {
     "id": "gEPLYBE92pY",
     "kind": "short",
-    "sim": 1
+    "title": "2 rounds of 2 minutes"
    },
    {
     "id": "sbbUFztt2J8",
     "kind": "short",
-    "sim": 1
+    "title": "Postman\u2019s blow drill"
    },
    {
     "id": "l9TSkHk3e7I",
     "kind": "short",
-    "sim": 0.6
+    "title": "Jab-cross with every 4th bounce"
    },
    {
     "id": "S_laJPwV0ek",
     "kind": "short",
-    "sim": 1
+    "title": "Round 1: warm-up / defence"
    },
    {
     "id": "kdft-3Va_EI",
     "kind": "short",
-    "sim": 0.75
+    "title": "Round 2: provocation - defence - counter"
    },
    {
     "id": "LhpFyC4wvQw",
     "kind": "short",
-    "sim": 1
+    "title": "Round 3"
    },
    {
     "id": "frbFfQ1x77w",
     "kind": "short",
-    "sim": 1
+    "title": "Round 4: pendulum step combo"
    },
    {
     "id": "BTNV-teveKM",
     "kind": "short",
-    "sim": 0.8
+    "title": "Round 5: counter attacking with single punches"
    },
    {
     "id": "S_5wY_nYtCs",
     "kind": "short",
-    "sim": 0.67
+    "title": "Knuckle push ups"
    },
    {
     "id": "N9o9qTh4Dyk",
     "kind": "short",
-    "sim": 1
+    "title": "Squats"
    },
    {
     "id": "v4FjyPTGmWw",
     "kind": "short",
-    "sim": 1
+    "title": "Hanging leg raises"
    },
    {
     "id": "_zoKm1WJg0k",
     "kind": "short",
-    "sim": 1
+    "title": "Superman raises"
    },
    {
     "id": "QtFftUs7Pbc",
     "kind": "short",
-    "sim": 0.67
+    "title": "Strict pull ups"
    },
    {
     "id": "9H-HvS5YznE",
     "kind": "short",
-    "sim": 0.5
+    "title": "neck exercises"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0.5
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-03": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
     "id": "Nq57-jHWceE",
     "kind": "short",
-    "sim": 1
+    "title": "1 round of 2 minutes"
    },
    {
     "id": "eroPBNak2GM",
     "kind": "short",
-    "sim": 0.67
+    "title": "Go for 1 round of 2 minutes"
    },
    {
     "id": "IgxUfeLQqhg",
     "kind": "short",
-    "sim": 1
+    "title": "1 round of 2 minutes"
    },
    {
     "id": "8PULWH5J1LM",
     "kind": "short",
-    "sim": 0.89
+    "title": "20 hops, 10 touches, 10 run outs for each side"
    },
    {
     "id": "_SerGo1hD6s",
     "kind": "short",
-    "sim": 0.67
+    "title": "Go for 1 round of 2 minutes"
    },
    {
     "id": "WbCqhqEL2Xw",
     "kind": "short",
-    "sim": 0
+    "title": "Focus on form and then add speed"
    },
    {
     "id": "12MREjz2Xaw",
     "kind": "short",
-    "sim": 0.25
+    "title": "Add punches only if you find your rhythm"
    },
    {
     "id": "18NVfRYGsno",
     "kind": "short",
-    "sim": 0.5
+    "title": "Beginner Boxing Combo Tutorial"
    },
    {
     "id": "9hIiOOyazvg",
     "kind": "short",
-    "sim": 0.25
+    "title": "Basic and Effective Boxing Combination"
    },
    {
     "id": "atZmELp3bmI",
     "kind": "short",
-    "sim": 1
+    "title": "Pendulum Step Boxing Combo"
    },
    {
     "id": "mk1UrtQw7XE",
     "kind": "short",
-    "sim": 0.5
+    "title": "This Combo Works Well With The Pendulum Step"
    },
    {
     "id": "tB3lFrj7EQw",
     "kind": "short",
-    "sim": 1
+    "title": "The Postman\u2019s Blow Boxing Combo"
    },
    {
     "id": "5Kg6RPuJogE",
     "kind": "short",
-    "sim": 0.75
+    "title": "Boxing Combo to KO Anyone"
    },
    {
     "id": "otkXJnCWEaQ",
     "kind": "short",
-    "sim": 0.2
+    "title": "Must Know Combo for Shorter Boxers"
    },
    {
     "id": "CRaXLx_0arU",
     "kind": "short",
-    "sim": 0.75
+    "title": "Set Up the Liver Punch"
    },
    {
     "id": "u5ujxSTPlSU",
     "kind": "short",
-    "sim": 0.33
+    "title": "Knockout Boxing Combination"
    },
    {
     "id": "we4r_PfFV9U",
     "kind": "video",
-    "sim": 0.56
+    "title": "Agility Ladder Footwork drills | Can be done without a ladder"
    },
    {
-    "id": "mdk-t9B8ChE",
+    "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-04": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
     "id": "JK0W6Nsj1BA",
     "kind": "short",
-    "sim": 0.9
+    "title": "4 rounds of 1 minute. Switch your feet after 30 seconds in each round"
    },
    {
     "id": "xl6BUWxfbuw",
     "kind": "short",
-    "sim": 0.42
+    "title": "Each progression for 1 minute with no rest in between. Go with easier progression if it\u2019s difficult"
    },
-   {
-    "id": "2HhcmsK2gEs",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "QDakeCOBdDE",
-    "kind": "video",
-    "sim": 0.25
-   },
-   {
-    "id": "3mlhF3dptAo",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "d6XOrNwKOHo",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "lI8-igvsnVQ",
-    "kind": "video",
-    "sim": 0.75
-   },
-   {
-    "id": "6FZHJGzMFEc",
-    "kind": "video",
-    "sim": 0.75
-   },
-   {
-    "id": "XDrBaf2V8oU",
-    "kind": "video",
-    "sim": 0.33
-   },
-   {
-    "id": "vS4g4ysWiG0",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "Kd_qh0ljECM",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "JS2ThQCEsM4",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "d6RC0Z24n3o",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "TFH8_7FHphI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "69gxHfKPW0k",
-    "kind": "short",
-    "sim": 0.78
-   },
-   {
-    "id": "TBU-iT1_t48",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "ldkUh3vkRgg",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "YkTJ7SKWepY",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "0sHcJCPKwKY",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "sN_ncQLqhgw",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "I3kOOFmyWUI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "haZORydK6KI",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "L5MpOrtJaHo",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "XwY7Y7rzQjk",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "-Aw6yygVYWk",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "xdOJaJPLxr0",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "uoo50RMLwUA",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "LnjQ6etNHF4",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "0yBLs7LZIx4",
-    "kind": "short",
-    "sim": 0.13
-   },
-   {
-    "id": "6ZHBsEoRbHA",
-    "kind": "short",
-    "sim": 0.17
-   },
-   {
-    "id": "S3A69wql1do",
-    "kind": "short",
-    "sim": 0.13
-   },
-   {
-    "id": "YIslUw5miPc",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "5AkkKg601AA",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "Unn126xKum0",
-    "kind": "short",
-    "sim": 0.11
-   },
-   {
-    "id": "PYfmxC-k1QY",
-    "kind": "short",
-    "sim": 0.2
-   },
-   {
-    "id": "Qq7JaZ5Lvec",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "JiKK619sg9E",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "d26mRs8t_3U",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "78Z6YmfPwks",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "mIb5AD0pAzM",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "azEt7HhvGzg",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "LVM4LIz_d_M",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "5pAQIG7cPCs",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "j9_NuEnhugo",
-    "kind": "short",
-    "sim": 0.78
-   },
-   {
-    "id": "Y2Ca2gC_eCI",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "Ql0nJeoX3vY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "2kDJRfLdHIo",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "m166G16S_3I",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "Mg1nFdD9VGo",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "JdpNU4JoPQA",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "E0XxQIWUpEk",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "BitbpI6srt0",
-    "kind": "short",
-    "sim": 0.71
-   },
-   {
-    "id": "dMyfD4VQUiA",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "hT1Y9nAFrRk",
-    "kind": "short",
-    "sim": 0.86
-   },
-   {
-    "id": "BbxdBXm30L4",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "ZqDCB2DfZyQ",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Ilp0Dv65bW4",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "UsVQPfCRdz4",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "wvfv8H6bdbo",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "GlhnsdCuu9s",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "wVpp2XH1ELI",
-    "kind": "video",
-    "sim": 0.33
-   },
-   {
-    "id": "Q28cLuweLv4",
-    "kind": "video",
-    "sim": 0.25
-   },
-   {
-    "id": "bORK-D1yGZY",
-    "kind": "video",
-    "sim": 0.6
-   },
-   {
-    "id": "c1OSIZu_2AI",
-    "kind": "video",
-    "sim": 0.33
-   },
-   {
-    "id": "8mryJ3w2S78",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "-ruAdV34H54",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "ZRuQUdrOyng",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "wkgcrI-Tt1M",
-    "kind": "short",
-    "sim": 0.63
-   },
-   {
-    "id": "l9hmnq9a270",
-    "kind": "short",
-    "sim": 0.55
-   },
-   {
-    "id": "uApQgQkajeI",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "gE6LSi_5xPs",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "lBOBntWzHGM",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "fA0e9Ddgqo4",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "wVduq03mKM0",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "_fmgxhgn6dY",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "zFo1G2At_YU",
-    "kind": "short",
-    "sim": 0.64
-   },
-   {
-    "id": "j5HHEv-4FaI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "i6P7roPMS7o",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "CtKYuuG1sF8",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "pkU1-lB9LSo",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "k8tLd4QBJqE",
-    "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "9iJ4ChvPT20",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "JUxiLHVxyQE",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "0fkXwQyjZkM",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "r7LbFfCr5EM",
-    "kind": "short",
-    "sim": 0.29
-   },
-   {
-    "id": "aBlNx0VT09w",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "Oqh5CqN41To",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "j6YVX4rt7-Q",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "70-COGCTXXM",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "77uhRMvas2E",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "_hHCqV34bXs",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "3vdscXAWNcw",
-    "kind": "short",
-    "sim": 0.33
-   },
-   {
-    "id": "T-mCIozUnGU",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "WHcPcgpBeJQ",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "MzOUyxXxR48",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "2N262oVFZog",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "PYnHsjVSLwE",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "iO9yiZmFZPE",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "FE0DWEkklLs",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "H-APube2Y1I",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "LFg8Sw919Pw",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "15_KjfjtDOU",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "0yzITbK6A4s",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "gizNioCEKxw",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "ANl9iboLESc",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "Ds0T3IBqkX0",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "szlQfa46vIY",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "aIFAAqCyOBA",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "GWk9RJrjzP8",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "sLBRJIfd5Es",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "9dP-0_uBK3g",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "NlMMQSfVEAw",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "2oIeasF6Mck",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "0mbwdeluS7k",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "KLT_62jjjqs",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "9v-qzbCnGPg",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "8pmQxBZ5MVQ",
-    "kind": "short",
-    "sim": 0
-   },
-   {
-    "id": "bDYpC_RCTwI",
-    "kind": "short",
-    "sim": 0.56
-   },
-   {
-    "id": "Sd7LUCvRVxE",
-    "kind": "short",
-    "sim": 0.29
-   },
-   {
-    "id": "YGGq0AE5Uyc",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "Gvm5Q29UHbk",
-    "kind": "video",
-    "sim": 0.6
-   },
-   {
-    "id": "nN-fkSOL1ds",
-    "kind": "video",
-    "sim": 0.25
-   },
-   {
-    "id": "xAL7lHwj30E",
-    "kind": "video",
-    "sim": 0
-   },
-   {
-    "id": "2ubF0fUggSc",
-    "kind": "video",
-    "sim": 0.25
-   },
-   {
-    "id": "8rgurWd-PB8",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "gO2Qz6ydlUI",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "WcNfS8rtEEM",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "vEaNJhtcbyM",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "ThK-ZCjXPuU",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "ULmqXMbKrJg",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "LE-OFN_CHP8",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "hlRWLi8499g",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "feOR1lnXBvg",
-    "kind": "short",
-    "sim": 0.7
-   }
-  ],
-  "page-6": [
    {
     "id": "wFliXDD4sdo",
     "kind": "short",
-    "sim": 1
+    "title": "10 burpees and 20 jumping jacks"
    },
    {
     "id": "NYkjsXCXY8s",
     "kind": "short",
-    "sim": 1
+    "title": "1 round of 1 minute"
    },
    {
     "id": "UF9yUyIGVVU",
     "kind": "short",
-    "sim": 1
+    "title": "1 round of 3 minutes"
    },
    {
     "id": "G96cm_0FDO8",
     "kind": "short",
-    "sim": 0.43
+    "title": "Add punches only when you find the rhythm"
    },
    {
     "id": "gE6LSi_5xPs",
     "kind": "short",
-    "sim": 0.5
+    "title": "Defensive drill for 1 round of 2 minutes"
    },
    {
     "id": "zicFYNzPStI",
     "kind": "video",
-    "sim": 0.5
+    "title": "Old School Training: Virtual Pad Workout 1"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "r8zuz18esgo",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "4HbsGd62xps",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "DAlEJWGZhmA",
-    "kind": "short",
-    "sim": 1
+    "title": "Follow Along Cool-Down"
    }
   ],
-  "page-7": [
-   {
-    "id": "u1vHeFR4ptE",
-    "kind": "short",
-    "sim": 0.43
-   },
-   {
-    "id": "wp3mmcRXHzY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "jIBkXDJDTgI",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "ZPG8OsHKXLw",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "1PTb-3y7nJ8",
-    "kind": "video",
-    "sim": 0.71
-   },
-   {
-    "id": "FZq5k7l13fI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Mo5vtCs7mkk",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "cCIWGpOGlFU",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "9h6FHbBzijE",
-    "kind": "short",
-    "sim": 0.7
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 1
-   },
+  "workout-05": [
    {
     "id": "NBx2IAu3nkw",
     "kind": "video",
-    "sim": 0.43
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
     "id": "5QJE1WDchzo",
     "kind": "short",
-    "sim": 1
+    "title": "Freestyle frontal stance work for 1 round of 3 minutes"
    },
    {
     "id": "wkgcrI-Tt1M",
     "kind": "short",
-    "sim": 0.75
+    "title": "1 round of 90 seconds. Change the drills every 30 seconds"
    },
    {
     "id": "S1QPy1KK71A",
     "kind": "short",
-    "sim": 1
+    "title": "10 frog jumps; 20 side jumps; 10 pogo jumps"
    },
    {
     "id": "-_C_drPyRas",
     "kind": "short",
-    "sim": 1
+    "title": "Limited freestyle work. 5 rounds of 1 minute with 20 seconds of rest in between"
    },
    {
     "id": "H6bEeLuJ0D8",
     "kind": "short",
-    "sim": 0.75
+    "title": "1 round of 3 minutes. Each progression for 1 minute with no rest in between."
    },
    {
     "id": "wtsuldksiaM",
     "kind": "video",
-    "sim": 0.17
+    "title": "Virtual Sparring vs Oleksandr Usyk Enthusiast"
    },
    {
     "id": "MA3YbVgnL64",
     "kind": "short",
-    "sim": 0.5
+    "title": "Boxing Footwork Drills That Will Make You Cry \ud83e\udd72"
    },
    {
     "id": "43Q_Ltcpf2w",
     "kind": "short",
-    "sim": 1
+    "title": "Med ball throws. 10 reps for each of the exercises"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0.5
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-06": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
     "id": "DFWVShzjonM",
     "kind": "short",
-    "sim": 0.83
+    "title": "6 rounds of 3 minutes with 55 seconds of rest in between"
    },
    {
     "id": "QJYmyqRh4_g",
     "kind": "short",
-    "sim": 0.71
+    "title": "Go for 3 rounds of 2 minutes with 30 seconds of rest on between"
    },
    {
     "id": "RGJ1t8l1SeQ",
     "kind": "short",
-    "sim": 0.78
+    "title": "Do each progression for 1 minute with no rest in between. 1 round of 3 minutes"
    },
    {
     "id": "dMyfD4VQUiA",
     "kind": "short",
-    "sim": 0.63
+    "title": "1 set of 10 reps for each exercise with no rest in between"
    },
    {
     "id": "kg6hstSwT9I",
     "kind": "short",
-    "sim": 0.86
+    "title": "Go for 3 rounds of 3 minutes with 20 seconds of rest in between"
    },
    {
     "id": "-N-TKSzhvw0",
     "kind": "short",
-    "sim": 1
+    "title": "1 round of 2 minutes"
    },
    {
     "id": "ddm6JxgUKHQ",
     "kind": "short",
-    "sim": 0.71
-   }
-  ],
-  "recovery": [
+    "title": "Do each progression for 1 minute with no rest in between"
+   },
    {
     "id": "NpdFgP3IuYM",
     "kind": "short",
-    "sim": 0.33
+    "title": "Focus on rotation and transferring your body weight"
    },
    {
     "id": "KHtxasByl3k",
     "kind": "short",
-    "sim": 0.33
-   }
-  ],
-  "page-10": [
+    "title": "Keep up the pace"
+   },
    {
     "id": "0TOhu7nw9no",
     "kind": "short",
-    "sim": 0.25
+    "title": "Engage your core and legs"
    },
    {
     "id": "Z82ylY0vneU",
     "kind": "short",
-    "sim": 0.33
+    "title": "Focus on controlling the stic"
    },
    {
     "id": "zF2ExbPb2k4",
     "kind": "short",
-    "sim": 0.33
+    "title": "Focus on keeping balance"
    },
    {
     "id": "azefzVOtp3E",
     "kind": "short",
-    "sim": 0.25
-   }
-  ],
-  "page-13": [
-   {
-    "id": "wFliXDD4sdo",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "_MtJLZk6vIs",
-    "kind": "video",
-    "sim": 0.8
+    "title": "Connect your feet and hands"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "HHw-07XbbY4",
-    "kind": "short",
-    "sim": 0.71
-   },
-   {
-    "id": "r8zuz18esgo",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "4HbsGd62xps",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "v4FjyPTGmWw",
-    "kind": "short",
-    "sim": 1
+    "title": "Follow Along Cool-Down"
    }
   ],
-  "page-14": [
-   {
-    "id": "u1vHeFR4ptE",
-    "kind": "short",
-    "sim": 0.57
-   },
-   {
-    "id": "wp3mmcRXHzY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "jIBkXDJDTgI",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "ZPG8OsHKXLw",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "1PTb-3y7nJ8",
-    "kind": "video",
-    "sim": 0.71
-   },
-   {
-    "id": "FZq5k7l13fI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Mo5vtCs7mkk",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "cCIWGpOGlFU",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "9h6FHbBzijE",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 1
-   },
+  "workout-07": [
    {
     "id": "NBx2IAu3nkw",
     "kind": "video",
-    "sim": 0.43
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
-    "id": "hwHSrYI9wyw",
+    "id": "vS4g4ysWiG0",
     "kind": "short",
-    "sim": 0.89
+    "title": "Practice each group of punches for 1 round of 1 minute with 20 seconds of rest in between"
    },
    {
-    "id": "-_C_drPyRas",
+    "id": "Kd_qh0ljECM",
     "kind": "short",
-    "sim": 1
+    "title": "1 round of 2 minutes"
    },
    {
-    "id": "DyGyTd1S_QY",
+    "id": "-a1GZoE16Dk",
     "kind": "short",
-    "sim": 0.71
+    "title": "10 push-ups, 20 climbers and 10 jumps with no rest in between"
    },
    {
-    "id": "S1QPy1KK71A",
+    "id": "JS2ThQCEsM4",
     "kind": "short",
-    "sim": 1
+    "title": "1 round of 2 minutes"
    },
    {
-    "id": "oYBSkD5YUzQ",
-    "kind": "video",
-    "sim": 0.4
-   },
-   {
-    "id": "wrjaSRPtvbw",
+    "id": "d6RC0Z24n3o",
     "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "43Q_Ltcpf2w",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "NIfJOIIWOkw",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "x9km7-IKoEY",
-    "kind": "short",
-    "sim": 0.38
-   },
-   {
-    "id": "91TsVkHKY_Q",
-    "kind": "short",
-    "sim": 0.09
-   }
-  ],
-  "page-15": [
-   {
-    "id": "rN_mkOV-aRA",
-    "kind": "short",
-    "sim": 0.4
-   },
-   {
-    "id": "OtVcIRW4KdA",
-    "kind": "short",
-    "sim": 1
-   }
-  ],
-  "page-20": [
-   {
-    "id": "mdk-t9B8ChE",
-    "kind": "video",
-    "sim": 0.67
-   },
-   {
-    "id": "NBx2IAu3nkw",
-    "kind": "video",
-    "sim": 0.43
-   },
-   {
-    "id": "8R0RjGDP-BM",
-    "kind": "short",
-    "sim": 0.57
-   },
-   {
-    "id": "_VaSMgoGokw",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "tcoXLIufzl0",
-    "kind": "short",
-    "sim": 0.75
-   },
-   {
-    "id": "ta1592B4I58",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "e8qM-Gtnjw8",
-    "kind": "short",
-    "sim": 0.86
-   },
-   {
-    "id": "wFliXDD4sdo",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "1EJIrZUNta4",
-    "kind": "video",
-    "sim": 0.63
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "HHw-07XbbY4",
-    "kind": "short",
-    "sim": 0.71
-   },
-   {
-    "id": "r8zuz18esgo",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "4HbsGd62xps",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "v4FjyPTGmWw",
-    "kind": "short",
-    "sim": 1
-   }
-  ],
-  "page-21": [
-   {
-    "id": "u1vHeFR4ptE",
-    "kind": "short",
-    "sim": 0.57
-   },
-   {
-    "id": "wp3mmcRXHzY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "jIBkXDJDTgI",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "ZPG8OsHKXLw",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "1PTb-3y7nJ8",
-    "kind": "video",
-    "sim": 0.71
-   },
-   {
-    "id": "FZq5k7l13fI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Mo5vtCs7mkk",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "cCIWGpOGlFU",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "9h6FHbBzijE",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "NBx2IAu3nkw",
-    "kind": "video",
-    "sim": 0.57
-   },
-   {
-    "id": "odCM9-ZgBuY",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "6Dh1-EPpS0g",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "S1QPy1KK71A",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "n6nHeZMQpu8",
-    "kind": "video",
-    "sim": 0.33
-   },
-   {
-    "id": "pzVZ5987hjw",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "43Q_Ltcpf2w",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "wNvMvSYqa5Y",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "lR46yTktQuk",
-    "kind": "short",
-    "sim": 0.82
-   }
-  ],
-  "page-25": [
-   {
-    "id": "mH8SppUeMvs",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "yCcgdL2qiXQ",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "n4_HjfNGCCY",
-    "kind": "short",
-    "sim": 1
+    "title": "Go for 1 round of 2 minutes"
    },
    {
     "id": "TFH8_7FHphI",
     "kind": "short",
-    "sim": 1
-   }
-  ],
-  "page-27": [
-   {
-    "id": "mdk-t9B8ChE",
-    "kind": "video",
-    "sim": 0.67
+    "title": "Defensive drill for 1 round of 2 minutes"
    },
    {
-    "id": "NBx2IAu3nkw",
-    "kind": "video",
-    "sim": 0.43
-   },
-   {
-    "id": "VeaYgiQQqQo",
+    "id": "69gxHfKPW0k",
     "kind": "short",
-    "sim": 1
+    "title": "do each progression for 1 minute with no rest in between. 1 round of 2 minutes"
    },
    {
-    "id": "Pt34gbYMcQ4",
+    "id": "TBU-iT1_t48",
     "kind": "short",
-    "sim": 1
+    "title": "Round 1: warm-up defence"
    },
    {
-    "id": "qgkNr6FukiE",
+    "id": "ldkUh3vkRgg",
     "kind": "short",
-    "sim": 0.82
+    "title": "Round 2: pendulum step work"
    },
    {
-    "id": "wFliXDD4sdo",
+    "id": "YkTJ7SKWepY",
     "kind": "short",
-    "sim": 1
+    "title": "Round 3: creating angles"
    },
    {
-    "id": "G0bH9sykCu0",
-    "kind": "video",
-    "sim": 0.71
+    "id": "0sHcJCPKwKY",
+    "kind": "short",
+    "title": "Round 4: slip counter combo"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "HHw-07XbbY4",
-    "kind": "short",
-    "sim": 0.71
-   },
-   {
-    "id": "r8zuz18esgo",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "4HbsGd62xps",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "v4FjyPTGmWw",
-    "kind": "short",
-    "sim": 1
+    "title": "Follow Along Cool-Down"
    }
   ],
-  "page-28": [
-   {
-    "id": "u1vHeFR4ptE",
-    "kind": "short",
-    "sim": 0.57
-   },
-   {
-    "id": "wp3mmcRXHzY",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "jIBkXDJDTgI",
-    "kind": "short",
-    "sim": 0.25
-   },
-   {
-    "id": "ZPG8OsHKXLw",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "1PTb-3y7nJ8",
-    "kind": "video",
-    "sim": 0.71
-   },
-   {
-    "id": "FZq5k7l13fI",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "Mo5vtCs7mkk",
-    "kind": "short",
-    "sim": 0.83
-   },
-   {
-    "id": "cCIWGpOGlFU",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "9h6FHbBzijE",
-    "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 1
-   },
+  "workout-08": [
    {
     "id": "NBx2IAu3nkw",
     "kind": "video",
-    "sim": 0.43
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
-    "id": "6Dh1-EPpS0g",
+    "id": "sN_ncQLqhgw",
     "kind": "short",
-    "sim": 1
+    "title": "2 rounds of 2 minutes with 30 seconds of rest in between"
    },
    {
-    "id": "gT7Jyxda2fo",
+    "id": "I3kOOFmyWUI",
     "kind": "short",
-    "sim": 0.5
+    "title": "1 round of 45 seconds"
+   },
+   {
+    "id": "haZORydK6KI",
+    "kind": "short",
+    "title": "Go for 1 round of 2 minutes"
+   },
+   {
+    "id": "8PULWH5J1LM",
+    "kind": "short",
+    "title": "20 hops, 10 touches, 10 run outs for each side"
+   },
+   {
+    "id": "L5MpOrtJaHo",
+    "kind": "short",
+    "title": "Step back counter attacks for 1 round of 2 minutes"
+   },
+   {
+    "id": "XwY7Y7rzQjk",
+    "kind": "short",
+    "title": "Slip counters for 1 round of 2 minutes"
+   },
+   {
+    "id": "-Aw6yygVYWk",
+    "kind": "short",
+    "title": "Defensive drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "xdOJaJPLxr0",
+    "kind": "short",
+    "title": "Start with defence"
+   },
+   {
+    "id": "uoo50RMLwUA",
+    "kind": "short",
+    "title": "Long range combo"
+   },
+   {
+    "id": "LnjQ6etNHF4",
+    "kind": "short",
+    "title": "Emphasise the body shot"
+   },
+   {
+    "id": "0yBLs7LZIx4",
+    "kind": "short",
+    "title": "Go for regular steps if the pendulum is too difficult"
+   },
+   {
+    "id": "6ZHBsEoRbHA",
+    "kind": "short",
+    "title": "The cross will come from an unusual angle"
+   },
+   {
+    "id": "S3A69wql1do",
+    "kind": "short",
+    "title": "Go for regular steps is the pendulum is too difficult"
+   },
+   {
+    "id": "YIslUw5miPc",
+    "kind": "short",
+    "title": "Pay attention to the switched step after the slip"
+   },
+   {
+    "id": "5AkkKg601AA",
+    "kind": "short",
+    "title": "Emphasise the body shot"
+   },
+   {
+    "id": "Unn126xKum0",
+    "kind": "short",
+    "title": "Extend your arm with the uppercuts so you can land the punches"
+   },
+   {
+    "id": "PYfmxC-k1QY",
+    "kind": "short",
+    "title": "Build that rock solid jab"
+   },
+   {
+    "id": "Qq7JaZ5Lvec",
+    "kind": "short",
+    "title": "Isometric cross"
+   },
+   {
+    "id": "JiKK619sg9E",
+    "kind": "short",
+    "title": "Pay attention to fist, elbow and shoulder alignment to avoid injury"
+   },
+   {
+    "id": "d26mRs8t_3U",
+    "kind": "short",
+    "title": "Practice each hand separately"
+   },
+   {
+    "id": "78Z6YmfPwks",
+    "kind": "short",
+    "title": "Push a ball through a wall with your core"
+   },
+   {
+    "id": "mIb5AD0pAzM",
+    "kind": "short",
+    "title": "Hold your body straight"
+   },
+   {
+    "id": "azEt7HhvGzg",
+    "kind": "short",
+    "title": "Long hip bridge"
+   },
+   {
+    "id": "LVM4LIz_d_M",
+    "kind": "short",
+    "title": "Wall sit"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-09": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "5pAQIG7cPCs",
+    "kind": "short",
+    "title": "Each progression for 1 minute with no rest in between"
+   },
+   {
+    "id": "j9_NuEnhugo",
+    "kind": "short",
+    "title": "Finish attacks with cross forward-lead hook back. 1 round of 2 minutes"
+   },
+   {
+    "id": "Y2Ca2gC_eCI",
+    "kind": "short",
+    "title": "Provocation - defence - counter. 1 round of 3 minutes"
+   },
+   {
+    "id": "Ql0nJeoX3vY",
+    "kind": "short",
+    "title": "Attack - defend the same attack. 1 round of 3 minutes"
+   },
+   {
+    "id": "wFliXDD4sdo",
+    "kind": "short",
+    "title": "10 burpees and 20 jumping jacks"
+   },
+   {
+    "id": "_MtJLZk6vIs",
+    "kind": "video",
+    "title": "Virtual Pad Workout - Counter Punhces"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-10": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "hwHSrYI9wyw",
+    "kind": "short",
+    "title": "Do each progression for 1 minute with no rest in between. 1 round of 3 minutes"
+   },
+   {
+    "id": "-_C_drPyRas",
+    "kind": "short",
+    "title": "Limited freestyle work. 5 rounds of 1 minute with 20 seconds of rest in between"
+   },
+   {
+    "id": "DyGyTd1S_QY",
+    "kind": "short",
+    "title": "No Partner No Equipment Boxing Defensive Drill"
    },
    {
     "id": "S1QPy1KK71A",
     "kind": "short",
-    "sim": 1
+    "title": "10 frog jumps; 20 side jumps; 10 pogo jumps"
    },
    {
-    "id": "PPkFi9g3OEE",
+    "id": "oYBSkD5YUzQ",
     "kind": "video",
-    "sim": 0.33
+    "title": "Virtual Sparring VS Canelo Enthusiast"
    },
    {
-    "id": "Uv0JlcyZ0OQ",
+    "id": "wrjaSRPtvbw",
     "kind": "short",
-    "sim": 0.6
+    "title": "5 Drills For Better Boxing Performance"
    },
    {
     "id": "43Q_Ltcpf2w",
     "kind": "short",
-    "sim": 1
+    "title": "Med ball throws. 10 reps for each of the exercises"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0.5
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-11": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
    },
    {
     "id": "NIfJOIIWOkw",
     "kind": "short",
-    "sim": 0.5
+    "title": "Push up with a shuttle run"
    },
    {
     "id": "x9km7-IKoEY",
     "kind": "short",
-    "sim": 0.38
-   }
-  ],
-  "page-29": [
+    "title": "Try to throw the ball high but don\u2019t break the ceiling \ufffc"
+   },
    {
     "id": "91TsVkHKY_Q",
     "kind": "short",
-    "sim": 0.18
+    "title": "Don\u2019t go too fast because it will get you too dizzy"
    },
    {
     "id": "rN_mkOV-aRA",
     "kind": "short",
-    "sim": 0.2
+    "title": "Avoid hyper extension in your elbows"
    },
    {
     "id": "OtVcIRW4KdA",
     "kind": "short",
-    "sim": 0.67
-   }
-  ],
-  "page-31": [
+    "title": "Focus on your technique"
+   },
+   {
+    "id": "LVM4LIz_d_M",
+    "kind": "short",
+    "title": "Wall sit"
+   },
+   {
+    "id": "2kDJRfLdHIo",
+    "kind": "short",
+    "title": "Avoid hyperextended elbows"
+   },
+   {
+    "id": "m166G16S_3I",
+    "kind": "short",
+    "title": "Don\u2019t forget too heavy"
+   },
+   {
+    "id": "Mg1nFdD9VGo",
+    "kind": "short",
+    "title": "Hop from side to side"
+   },
    {
     "id": "mIb5AD0pAzM",
     "kind": "short",
-    "sim": 0.25
-   }
-  ],
-  "page-32": [
+    "title": "Hold your body straight"
+   },
    {
-    "id": "NBx2IAu3nkw",
+    "id": "8bv6hM59338",
     "kind": "video",
-    "sim": 0.43
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
    },
    {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "VfZLs80oNRk",
+    "id": "JdpNU4JoPQA",
     "kind": "short",
-    "sim": 1
+    "title": "6 rounds of 3 minutes with 50 seconds of rest in between"
    },
    {
-    "id": "S_5wY_nYtCs",
+    "id": "E0XxQIWUpEk",
     "kind": "short",
-    "sim": 0.67
+    "title": "1 round of 2 minutes"
    },
    {
-    "id": "N9o9qTh4Dyk",
+    "id": "BitbpI6srt0",
     "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "DAlEJWGZhmA",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "QtFftUs7Pbc",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "r8zuz18esgo",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "4HbsGd62xps",
-    "kind": "short",
-    "sim": 0.5
-   },
-   {
-    "id": "v4FjyPTGmWw",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "lYW01NV5hlU",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "wFliXDD4sdo",
-    "kind": "short",
-    "sim": 0.8
-   }
-  ],
-  "page-34": [
-   {
-    "id": "QlW46HOTHFw",
-    "kind": "video",
-    "sim": 0.75
-   },
-   {
-    "id": "SDiwB3FI5gY",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "S_5wY_nYtCs",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "N9o9qTh4Dyk",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "DAlEJWGZhmA",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "QtFftUs7Pbc",
-    "kind": "short",
-    "sim": 0.67
-   },
-   {
-    "id": "w8x6hCoa2sA",
-    "kind": "short",
-    "sim": 1
+    "title": "Take a step with every single punch. 1 round of 2 minutes"
    },
    {
     "id": "dMyfD4VQUiA",
     "kind": "short",
-    "sim": 0.63
-   }
-  ],
-  "page-35": [
+    "title": "1 set of 10 reps for each exercise with no rest in between"
+   },
    {
-    "id": "u1vHeFR4ptE",
+    "id": "hT1Y9nAFrRk",
     "kind": "short",
-    "sim": 0.29
+    "title": "Pendulum step warm-up drill. 1 round of 2 minutes"
    },
    {
-    "id": "wp3mmcRXHzY",
+    "id": "BbxdBXm30L4",
     "kind": "short",
-    "sim": 0.67
+    "title": "Step with every punch . 1 round of 2 minutes"
    },
    {
-    "id": "jIBkXDJDTgI",
+    "id": "ZqDCB2DfZyQ",
     "kind": "short",
-    "sim": 0.25
+    "title": "Attack - block - attack. 1 round of 2 minutes"
    },
    {
-    "id": "ZPG8OsHKXLw",
+    "id": "Ilp0Dv65bW4",
     "kind": "short",
-    "sim": 0.5
+    "title": "Attack - defend the same attack. 1 round of 2 minutes"
    },
    {
-    "id": "1PTb-3y7nJ8",
-    "kind": "video",
-    "sim": 0.71
-   },
-   {
-    "id": "Mo5vtCs7mkk",
+    "id": "UsVQPfCRdz4",
     "kind": "short",
-    "sim": 0.83
+    "title": "Focus on your technique and speed"
    },
    {
-    "id": "cCIWGpOGlFU",
+    "id": "wvfv8H6bdbo",
     "kind": "short",
-    "sim": 0.5
+    "title": "Focus on fully rotating your shoulders"
    },
    {
-    "id": "9h6FHbBzijE",
+    "id": "GlhnsdCuu9s",
     "kind": "short",
-    "sim": 0.6
-   },
-   {
-    "id": "LiAWJ79WX-Q",
-    "kind": "video",
-    "sim": 1
-   },
-   {
-    "id": "NBx2IAu3nkw",
-    "kind": "video",
-    "sim": 0.43
-   },
-   {
-    "id": "ot1yVND_SD4",
-    "kind": "short",
-    "sim": 0.8
-   },
-   {
-    "id": "S1QPy1KK71A",
-    "kind": "short",
-    "sim": 1
-   },
-   {
-    "id": "BkQqu02VvYE",
-    "kind": "video",
-    "sim": 0.5
-   },
-   {
-    "id": "Wgz87tKsIMs",
-    "kind": "short",
-    "sim": 0.2
+    "title": "Put a band around and work freestyle"
    },
    {
     "id": "SDiwB3FI5gY",
     "kind": "video",
-    "sim": 0.5
+    "title": "Follow Along Cool-Down"
    }
   ],
-  "page-36": [
+  "workout-12": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "ZRuQUdrOyng",
+    "kind": "short",
+    "title": "Power punching drill. 4 rounds of 2 minute. 20 seconds of rest in between"
+   },
+   {
+    "id": "wkgcrI-Tt1M",
+    "kind": "short",
+    "title": "1 round of 90 seconds. Change the drills every 30 seconds"
+   },
+   {
+    "id": "-a1GZoE16Dk",
+    "kind": "short",
+    "title": "10 push-ups, 20 climbers and 10 jumps with no rest in between"
+   },
+   {
+    "id": "l9hmnq9a270",
+    "kind": "short",
+    "title": "Distance control drill. Do each progression for 1 minute with no rest. 1 round of 3 minutes"
+   },
+   {
+    "id": "uApQgQkajeI",
+    "kind": "short",
+    "title": "Continuous pendulum punching. 1 round of 3 minutes"
+   },
+   {
+    "id": "gE6LSi_5xPs",
+    "kind": "short",
+    "title": "Defensive drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "lBOBntWzHGM",
+    "kind": "short",
+    "title": "Round 1: warm-up / defence"
+   },
+   {
+    "id": "fA0e9Ddgqo4",
+    "kind": "short",
+    "title": "Round 2: simultaneous counters"
+   },
+   {
+    "id": "wVduq03mKM0",
+    "kind": "short",
+    "title": "Round 3: simultaneous counter combo"
+   },
+   {
+    "id": "_fmgxhgn6dY",
+    "kind": "short",
+    "title": "Round 4: pendulum step combo"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-13": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "zFo1G2At_YU",
+    "kind": "short",
+    "title": "Side stepping drill. Do each progression for 1 minute with 20 seconds of rest in between"
+   },
+   {
+    "id": "j5HHEv-4FaI",
+    "kind": "short",
+    "title": "1 round of 2 minutes"
+   },
+   {
+    "id": "8PULWH5J1LM",
+    "kind": "short",
+    "title": "20 hops, 10 touches, 10 run outs for each side"
+   },
+   {
+    "id": "i6P7roPMS7o",
+    "kind": "short",
+    "title": "Do each of the 3 drills for 45 seconds with 15 sec of rest in between. Switch feet halfway"
+   },
+   {
+    "id": "CtKYuuG1sF8",
+    "kind": "short",
+    "title": "Provocation and counter . 1 round of 2 minutes"
+   },
+   {
+    "id": "pkU1-lB9LSo",
+    "kind": "short",
+    "title": "Boxing Combo to Deal Serious Damage"
+   },
+   {
+    "id": "k8tLd4QBJqE",
+    "kind": "short",
+    "title": "Break Any High Guard with This Boxing Combo"
+   },
+   {
+    "id": "9iJ4ChvPT20",
+    "kind": "short",
+    "title": "Boxing Combo Every Fighter Should Know"
+   },
+   {
+    "id": "JUxiLHVxyQE",
+    "kind": "short",
+    "title": "Learn This Combo to Finish Any Fight"
+   },
+   {
+    "id": "0fkXwQyjZkM",
+    "kind": "short",
+    "title": "Combo for your rhythm"
+   },
+   {
+    "id": "r7LbFfCr5EM",
+    "kind": "short",
+    "title": "Old School Boxing Combo That Still Works"
+   },
+   {
+    "id": "aBlNx0VT09w",
+    "kind": "short",
+    "title": "Great Combo for Taller Boxers"
+   },
+   {
+    "id": "Oqh5CqN41To",
+    "kind": "short",
+    "title": "Pendulum Step Boxing Combo"
+   },
+   {
+    "id": "j6YVX4rt7-Q",
+    "kind": "short",
+    "title": "The cross combo"
+   },
+   {
+    "id": "70-COGCTXXM",
+    "kind": "short",
+    "title": "3 Tennis ball drill"
+   },
+   {
+    "id": "77uhRMvas2E",
+    "kind": "short",
+    "title": "How to Juggle with 2 Balls"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-14": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "8R0RjGDP-BM",
+    "kind": "short",
+    "title": "Do each progression for 1 minute with no rest in between"
+   },
+   {
+    "id": "_VaSMgoGokw",
+    "kind": "short",
+    "title": "Attacking in phases. 1 round of 3 minutes"
+   },
+   {
+    "id": "tcoXLIufzl0",
+    "kind": "short",
+    "title": "Simultaneous counters. 1 round of 3 minutes"
+   },
+   {
+    "id": "ta1592B4I58",
+    "kind": "short",
+    "title": "Escaping drill. 1 round of 2 minutes"
+   },
+   {
+    "id": "e8qM-Gtnjw8",
+    "kind": "short",
+    "title": "Attack - defend (jab-cross-hook). 1 round of 2 minutes"
+   },
+   {
+    "id": "wFliXDD4sdo",
+    "kind": "short",
+    "title": "10 burpees and 20 jumping jacks"
+   },
+   {
+    "id": "1EJIrZUNta4",
+    "kind": "video",
+    "title": "Tactical Virtual Pad Work | Boxing Tricks, Feints and Traps"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-15": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "odCM9-ZgBuY",
+    "kind": "short",
+    "title": "Freestyle frontal stance work. 1 round of 3 minutes"
+   },
+   {
+    "id": "6Dh1-EPpS0g",
+    "kind": "short",
+    "title": "9 Round Shadow Boxing Workout"
+   },
+   {
+    "id": "S1QPy1KK71A",
+    "kind": "short",
+    "title": "10 frog jumps; 20 side jumps; 10 pogo jumps"
+   },
+   {
+    "id": "n6nHeZMQpu8",
+    "kind": "video",
+    "title": "Virtual Sparring VS Naoya Inoue Enthusiast"
+   },
+   {
+    "id": "pzVZ5987hjw",
+    "kind": "short",
+    "title": "Drills For Faster Footwork \u26a1\ufe0f"
+   },
+   {
+    "id": "43Q_Ltcpf2w",
+    "kind": "short",
+    "title": "Med ball throws. 10 reps for each of the exercises"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-16": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "wNvMvSYqa5Y",
+    "kind": "short",
+    "title": "6 rounds of 3 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "lR46yTktQuk",
+    "kind": "short",
+    "title": "Rotational power drill. 4 rounds (each group of punches) of 1 minute with 20 seconds of rest"
+   },
+   {
+    "id": "mH8SppUeMvs",
+    "kind": "short",
+    "title": "Non-stop punching with bursts. 1 round of 2 minutes"
+   },
+   {
+    "id": "yCcgdL2qiXQ",
+    "kind": "short",
+    "title": "Non-stop pendulum with bursts. 2 rounds of 1 minute with 30 seconds of rest in between"
+   },
+   {
+    "id": "n4_HjfNGCCY",
+    "kind": "short",
+    "title": "3 punch combos with emphasis. 1 round of 3 minutes"
+   },
+   {
+    "id": "TFH8_7FHphI",
+    "kind": "short",
+    "title": "Defensive drill for 1 round of 2 minutes"
+   },
+   {
+    "id": "dMyfD4VQUiA",
+    "kind": "short",
+    "title": "1 set of 10 reps for each exercise with no rest in between"
+   },
+   {
+    "id": "_hHCqV34bXs",
+    "kind": "short",
+    "title": "50 reps for each of the 6 basic punches"
+   },
+   {
+    "id": "3vdscXAWNcw",
+    "kind": "short",
+    "title": "Focus on a fast 1-2 combo and don\u2019t forget to move"
+   },
+   {
+    "id": "T-mCIozUnGU",
+    "kind": "short",
+    "title": "Focus on speed, timing and accuracy"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-17": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "FE0DWEkklLs",
+    "kind": "short",
+    "title": "Round 1: defence / warm-up"
+   },
+   {
+    "id": "H-APube2Y1I",
+    "kind": "short",
+    "title": "Round 2: pendulum step combo"
+   },
+   {
+    "id": "LFg8Sw919Pw",
+    "kind": "short",
+    "title": "Round 3: provocation - defence - counter"
+   },
+   {
+    "id": "15_KjfjtDOU",
+    "kind": "short",
+    "title": "Round 4: Provocation - defence - counter combo"
+   },
+   {
+    "id": "0yzITbK6A4s",
+    "kind": "short",
+    "title": "Round 5: catch and shoot"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-18": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "gizNioCEKxw",
+    "kind": "short",
+    "title": "Angle creating drill. 1 round of 3 minutes"
+   },
+   {
+    "id": "ANl9iboLESc",
+    "kind": "short",
+    "title": "Escape the ropes. 1 round of 3 minutes"
+   },
+   {
+    "id": "Ds0T3IBqkX0",
+    "kind": "short",
+    "title": "Create angles and attack. 1 round of 3 minutes"
+   },
+   {
+    "id": "szlQfa46vIY",
+    "kind": "short",
+    "title": "Get Ready to Fight a Southpaw"
+   },
+   {
+    "id": "aIFAAqCyOBA",
+    "kind": "short",
+    "title": "Attack - defend the postman\u2019s blow. 1 round of 2 minutes"
+   },
+   {
+    "id": "8PULWH5J1LM",
+    "kind": "short",
+    "title": "20 hops, 10 touches, 10 run outs for each side"
+   },
+   {
+    "id": "GWk9RJrjzP8",
+    "kind": "short",
+    "title": "Set a trap for the overhand"
+   },
+   {
+    "id": "sLBRJIfd5Es",
+    "kind": "short",
+    "title": "Setting up the combo"
+   },
+   {
+    "id": "9dP-0_uBK3g",
+    "kind": "short",
+    "title": "Trap 3"
+   },
+   {
+    "id": "NlMMQSfVEAw",
+    "kind": "short",
+    "title": "Trap 4"
+   },
+   {
+    "id": "2oIeasF6Mck",
+    "kind": "short",
+    "title": "Trap 5"
+   },
+   {
+    "id": "0mbwdeluS7k",
+    "kind": "short",
+    "title": "Trap 6"
+   },
+   {
+    "id": "KLT_62jjjqs",
+    "kind": "short",
+    "title": "Trap 7"
+   },
+   {
+    "id": "9v-qzbCnGPg",
+    "kind": "short",
+    "title": "Trap 8"
+   },
+   {
+    "id": "8pmQxBZ5MVQ",
+    "kind": "short",
+    "title": "Trap 9"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-19": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "VeaYgiQQqQo",
+    "kind": "short",
+    "title": "Shadow boxing with feints. 4 rounds of 1 minute with 20 seconds of rest in between"
+   },
+   {
+    "id": "Pt34gbYMcQ4",
+    "kind": "short",
+    "title": "5 Pendulum step drills. 5 rounds of 1 minute with 20 seconds of rest in between"
+   },
+   {
+    "id": "qgkNr6FukiE",
+    "kind": "short",
+    "title": "Head movement. Do each progression for 1 minute with no rest in between. 1 round of 3 minutes"
+   },
+   {
+    "id": "wFliXDD4sdo",
+    "kind": "short",
+    "title": "10 burpees and 20 jumping jacks"
+   },
+   {
+    "id": "G0bH9sykCu0",
+    "kind": "video",
+    "title": "Virtual Pad Work - Setting Up Power Punches"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-20": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "6Dh1-EPpS0g",
+    "kind": "short",
+    "title": "9 Round Shadow Boxing Workout"
+   },
+   {
+    "id": "gT7Jyxda2fo",
+    "kind": "short",
+    "title": "Must-Do Drill for Infighters"
+   },
+   {
+    "id": "S1QPy1KK71A",
+    "kind": "short",
+    "title": "10 frog jumps; 20 side jumps; 10 pogo jumps"
+   },
+   {
+    "id": "PPkFi9g3OEE",
+    "kind": "video",
+    "title": "Virtual Sparring VS Terence Crawford Enthusiast"
+   },
+   {
+    "id": "Uv0JlcyZ0OQ",
+    "kind": "short",
+    "title": "Boxing Footwork Drills for Quickness and Technique"
+   },
+   {
+    "id": "43Q_Ltcpf2w",
+    "kind": "short",
+    "title": "Med ball throws. 10 reps for each of the exercises"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-21": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "NIfJOIIWOkw",
+    "kind": "short",
+    "title": "Push up with a shuttle run"
+   },
+   {
+    "id": "x9km7-IKoEY",
+    "kind": "short",
+    "title": "Try to throw the ball high but don\u2019t break the ceiling \ufffc"
+   },
+   {
+    "id": "91TsVkHKY_Q",
+    "kind": "short",
+    "title": "Don\u2019t go too fast because it will get you too dizzy"
+   },
+   {
+    "id": "rN_mkOV-aRA",
+    "kind": "short",
+    "title": "Avoid hyper extension in your elbows"
+   },
+   {
+    "id": "OtVcIRW4KdA",
+    "kind": "short",
+    "title": "Focus on your technique"
+   },
+   {
+    "id": "LVM4LIz_d_M",
+    "kind": "short",
+    "title": "Wall sit"
+   },
+   {
+    "id": "2kDJRfLdHIo",
+    "kind": "short",
+    "title": "Avoid hyperextended elbows"
+   },
+   {
+    "id": "m166G16S_3I",
+    "kind": "short",
+    "title": "Don\u2019t forget too heavy"
+   },
+   {
+    "id": "Mg1nFdD9VGo",
+    "kind": "short",
+    "title": "Hop from side to side"
+   },
+   {
+    "id": "mIb5AD0pAzM",
+    "kind": "short",
+    "title": "Hold your body straight"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-22": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "gO2Qz6ydlUI",
+    "kind": "short",
+    "title": "Freestyle movement drill. 1 round of 3 minutes"
+   },
+   {
+    "id": "WcNfS8rtEEM",
+    "kind": "short",
+    "title": "1 round of 3 minutes. Resistance pulling back"
+   },
+   {
+    "id": "vEaNJhtcbyM",
+    "kind": "short",
+    "title": "1 round of 3 minutes. Resistance pulling forward"
+   },
+   {
+    "id": "-a1GZoE16Dk",
+    "kind": "short",
+    "title": "10 push-ups, 20 climbers and 10 jumps with no rest in between"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-23": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "ULmqXMbKrJg",
+    "kind": "short",
+    "title": "Slip rope drill. 1 round of 3 minutes"
+   },
+   {
+    "id": "LE-OFN_CHP8",
+    "kind": "short",
+    "title": "Attack - defend. 1 round of 3 minutes"
+   },
+   {
+    "id": "hlRWLi8499g",
+    "kind": "short",
+    "title": "Shadow boxing with bursts. 1 round of 3 minutes"
+   },
+   {
+    "id": "8PULWH5J1LM",
+    "kind": "short",
+    "title": "20 hops, 10 touches, 10 run outs for each side"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-24": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "QlW46HOTHFw",
+    "kind": "video",
+    "title": "Virtual Pad Workout - Reaction"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "workout-25": [
+   {
+    "id": "NBx2IAu3nkw",
+    "kind": "video",
+    "title": "Boxing Follow Along Warm up | Lock In for Training"
+   },
+   {
+    "id": "ot1yVND_SD4",
+    "kind": "short",
+    "title": "Visualisation shadow boxing. 3 rounds of 3 minutes"
+   },
+   {
+    "id": "S1QPy1KK71A",
+    "kind": "short",
+    "title": "10 frog jumps; 20 side jumps; 10 pogo jumps"
+   },
+   {
+    "id": "BkQqu02VvYE",
+    "kind": "video",
+    "title": "Boxing Virtual Sparring: 3 Rounds VS Eastern European Boxer"
+   },
+   {
+    "id": "Wgz87tKsIMs",
+    "kind": "short",
+    "title": "5 Drills for Faster Feet and Better Coordination"
+   },
+   {
+    "id": "SDiwB3FI5gY",
+    "kind": "video",
+    "title": "Follow Along Cool-Down"
+   }
+  ],
+  "week-1-extras": [
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "SCVCLChPQFY",
+    "kind": "video",
+    "title": "The Bench Press"
+   },
+   {
+    "id": "1cVT3ee9mgU",
+    "kind": "video",
+    "title": "Kettlebell Swing"
+   },
+   {
+    "id": "lwYucFpyicQ",
+    "kind": "short",
+    "title": "30 seconds pf shadow boxing drill to let your hands go"
+   },
+   {
+    "id": "-bJIpOq-LWk",
+    "kind": "video",
+    "title": "How to do a Barbell Back Squat"
+   },
+   {
+    "id": "9v_aDcAszDU",
+    "kind": "video",
+    "title": "Band Pull Apart: Demonstration"
+   },
+   {
+    "id": "RfhXevB-vdI",
+    "kind": "video",
+    "title": "Farmers walk demo"
+   },
+   {
+    "id": "aAggnpPyR6E",
+    "kind": "video",
+    "title": "The Pull-Up"
+   },
+   {
+    "id": "KM7ZWGEcuMA",
+    "kind": "video",
+    "title": "Long Step Lunge"
+   },
+   {
+    "id": "CCSQ72S_NI0",
+    "kind": "short",
+    "title": "30 seconds of footwork drill to \u201cshake off\u201d your feet"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
    {
     "id": "mdk-t9B8ChE",
     "kind": "video",
-    "sim": 0.67
+    "title": "Active Recovery Session"
+   },
+   {
+    "id": "r8zuz18esgo",
+    "kind": "short",
+    "title": "Clapping push up \ud83d\udc4a"
+   },
+   {
+    "id": "4HbsGd62xps",
+    "kind": "short",
+    "title": "Squat jump"
+   },
+   {
+    "id": "DAlEJWGZhmA",
+    "kind": "short",
+    "title": "Balanced tucks"
+   },
+   {
+    "id": "u1vHeFR4ptE",
+    "kind": "short",
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "jIBkXDJDTgI",
+    "kind": "short",
+    "title": "Medicine Ball Squat Toss"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "1PTb-3y7nJ8",
+    "kind": "video",
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "cCIWGpOGlFU",
+    "kind": "short",
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
+   },
+   {
+    "id": "9h6FHbBzijE",
+    "kind": "short",
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
+   }
+  ],
+  "week-2-extras": [
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "2HhcmsK2gEs",
+    "kind": "video",
+    "title": "Landmine Punch"
+   },
+   {
+    "id": "QDakeCOBdDE",
+    "kind": "video",
+    "title": "Movement Demo - The Landmine Twist"
+   },
+   {
+    "id": "lwYucFpyicQ",
+    "kind": "short",
+    "title": "30 seconds pf shadow boxing drill to let your hands go"
+   },
+   {
+    "id": "3mlhF3dptAo",
+    "kind": "video",
+    "title": "The Dumbbell Power Snatch"
+   },
+   {
+    "id": "d6XOrNwKOHo",
+    "kind": "video",
+    "title": "Step Up Jump"
+   },
+   {
+    "id": "CCSQ72S_NI0",
+    "kind": "short",
+    "title": "30 seconds of footwork drill to \u201cshake off\u201d your feet"
+   },
+   {
+    "id": "lI8-igvsnVQ",
+    "kind": "video",
+    "title": "Dumbbell Single Leg RDL"
+   },
+   {
+    "id": "6FZHJGzMFEc",
+    "kind": "video",
+    "title": "Barbell Bent Over Row"
+   },
+   {
+    "id": "XDrBaf2V8oU",
+    "kind": "video",
+    "title": "Core Strength Technique: Plate Head Circles"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "S_5wY_nYtCs",
+    "kind": "short",
+    "title": "Knuckle push ups"
+   },
+   {
+    "id": "N9o9qTh4Dyk",
+    "kind": "short",
+    "title": "Squats"
+   },
+   {
+    "id": "v4FjyPTGmWw",
+    "kind": "short",
+    "title": "Hanging leg raises"
+   },
+   {
+    "id": "_zoKm1WJg0k",
+    "kind": "short",
+    "title": "Superman raises"
+   },
+   {
+    "id": "QtFftUs7Pbc",
+    "kind": "short",
+    "title": "Strict pull ups"
+   },
+   {
+    "id": "9H-HvS5YznE",
+    "kind": "short",
+    "title": "neck exercises"
+   },
+   {
+    "id": "mdk-t9B8ChE",
+    "kind": "video",
+    "title": "Active Recovery Session"
+   },
+   {
+    "id": "HHw-07XbbY4",
+    "kind": "short",
+    "title": "Each exercise for 30 seconds with no rest in between"
+   },
+   {
+    "id": "r8zuz18esgo",
+    "kind": "short",
+    "title": "Clapping push up \ud83d\udc4a"
+   },
+   {
+    "id": "4HbsGd62xps",
+    "kind": "short",
+    "title": "Squat jump"
+   },
+   {
+    "id": "u1vHeFR4ptE",
+    "kind": "short",
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "jIBkXDJDTgI",
+    "kind": "short",
+    "title": "Medicine Ball Squat Toss"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "1PTb-3y7nJ8",
+    "kind": "video",
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "cCIWGpOGlFU",
+    "kind": "short",
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
+   },
+   {
+    "id": "9h6FHbBzijE",
+    "kind": "short",
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
+   }
+  ],
+  "week-3-extras": [
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "wVpp2XH1ELI",
+    "kind": "video",
+    "title": "Dumbbell Squat Jump"
+   },
+   {
+    "id": "Q28cLuweLv4",
+    "kind": "video",
+    "title": "How To Do A Renegade Row"
+   },
+   {
+    "id": "lwYucFpyicQ",
+    "kind": "short",
+    "title": "30 seconds pf shadow boxing drill to let your hands go"
+   },
+   {
+    "id": "bORK-D1yGZY",
+    "kind": "video",
+    "title": "Med Ball Chest Pass | Demo"
+   },
+   {
+    "id": "c1OSIZu_2AI",
+    "kind": "video",
+    "title": "Dumbbell Reverse Lunge"
+   },
+   {
+    "id": "CCSQ72S_NI0",
+    "kind": "short",
+    "title": "30 seconds of footwork drill to \u201cshake off\u201d your feet"
+   },
+   {
+    "id": "8mryJ3w2S78",
+    "kind": "video",
+    "title": "Strict Chin-up Demo"
+   },
+   {
+    "id": "2kDJRfLdHIo",
+    "kind": "short",
+    "title": "Avoid hyperextended elbows"
+   },
+   {
+    "id": "-ruAdV34H54",
+    "kind": "video",
+    "title": "Side Plank Reach Through"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "S_5wY_nYtCs",
+    "kind": "short",
+    "title": "Knuckle push ups"
+   },
+   {
+    "id": "N9o9qTh4Dyk",
+    "kind": "short",
+    "title": "Squats"
+   },
+   {
+    "id": "v4FjyPTGmWw",
+    "kind": "short",
+    "title": "Hanging leg raises"
+   },
+   {
+    "id": "_zoKm1WJg0k",
+    "kind": "short",
+    "title": "Superman raises"
+   },
+   {
+    "id": "QtFftUs7Pbc",
+    "kind": "short",
+    "title": "Strict pull ups"
+   },
+   {
+    "id": "9H-HvS5YznE",
+    "kind": "short",
+    "title": "neck exercises"
+   },
+   {
+    "id": "mdk-t9B8ChE",
+    "kind": "video",
+    "title": "Active Recovery Session"
+   },
+   {
+    "id": "HHw-07XbbY4",
+    "kind": "short",
+    "title": "Each exercise for 30 seconds with no rest in between"
+   },
+   {
+    "id": "r8zuz18esgo",
+    "kind": "short",
+    "title": "Clapping push up \ud83d\udc4a"
+   },
+   {
+    "id": "4HbsGd62xps",
+    "kind": "short",
+    "title": "Squat jump"
+   },
+   {
+    "id": "u1vHeFR4ptE",
+    "kind": "short",
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "jIBkXDJDTgI",
+    "kind": "short",
+    "title": "Medicine Ball Squat Toss"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "1PTb-3y7nJ8",
+    "kind": "video",
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "cCIWGpOGlFU",
+    "kind": "short",
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
+   },
+   {
+    "id": "9h6FHbBzijE",
+    "kind": "short",
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
+   }
+  ],
+  "week-4-extras": [
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "SCVCLChPQFY",
+    "kind": "video",
+    "title": "The Bench Press"
+   },
+   {
+    "id": "1cVT3ee9mgU",
+    "kind": "video",
+    "title": "Kettlebell Swing"
+   },
+   {
+    "id": "lwYucFpyicQ",
+    "kind": "short",
+    "title": "30 seconds pf shadow boxing drill to let your hands go"
+   },
+   {
+    "id": "-bJIpOq-LWk",
+    "kind": "video",
+    "title": "How to do a Barbell Back Squat"
+   },
+   {
+    "id": "9v_aDcAszDU",
+    "kind": "video",
+    "title": "Band Pull Apart: Demonstration"
+   },
+   {
+    "id": "RfhXevB-vdI",
+    "kind": "video",
+    "title": "Farmers walk demo"
+   },
+   {
+    "id": "aAggnpPyR6E",
+    "kind": "video",
+    "title": "The Pull-Up"
+   },
+   {
+    "id": "KM7ZWGEcuMA",
+    "kind": "video",
+    "title": "Long Step Lunge"
+   },
+   {
+    "id": "CCSQ72S_NI0",
+    "kind": "short",
+    "title": "30 seconds of footwork drill to \u201cshake off\u201d your feet"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "WHcPcgpBeJQ",
+    "kind": "short",
+    "title": "Move one foot at a time. Each progression for 1 minute with no rest in between"
+   },
+   {
+    "id": "MzOUyxXxR48",
+    "kind": "short",
+    "title": "Step back counters. 1 round of 2 minutes"
+   },
+   {
+    "id": "2N262oVFZog",
+    "kind": "short",
+    "title": "Counters moving back. 1 round of 2 minutes"
+   },
+   {
+    "id": "PYnHsjVSLwE",
+    "kind": "short",
+    "title": "In&out attacking. 1 round of 2 minutes"
+   },
+   {
+    "id": "iO9yiZmFZPE",
+    "kind": "short",
+    "title": "Pendulum step combo. 1 round of 2 minutes"
+   },
+   {
+    "id": "-a1GZoE16Dk",
+    "kind": "short",
+    "title": "10 push-ups, 20 climbers and 10 jumps with no rest in between"
+   },
+   {
+    "id": "S_5wY_nYtCs",
+    "kind": "short",
+    "title": "Knuckle push ups"
+   },
+   {
+    "id": "N9o9qTh4Dyk",
+    "kind": "short",
+    "title": "Squats"
+   },
+   {
+    "id": "v4FjyPTGmWw",
+    "kind": "short",
+    "title": "Hanging leg raises"
+   },
+   {
+    "id": "_zoKm1WJg0k",
+    "kind": "short",
+    "title": "Superman raises"
+   },
+   {
+    "id": "QtFftUs7Pbc",
+    "kind": "short",
+    "title": "Strict pull ups"
+   },
+   {
+    "id": "9H-HvS5YznE",
+    "kind": "short",
+    "title": "neck exercises"
+   },
+   {
+    "id": "bDYpC_RCTwI",
+    "kind": "short",
+    "title": "Practice each of the 8 punches 20 times with 20 seconds of rest in between"
+   },
+   {
+    "id": "Sd7LUCvRVxE",
+    "kind": "short",
+    "title": "Skip these exercises if they are hard on your knees. Get enough rest in between sets"
+   },
+   {
+    "id": "mdk-t9B8ChE",
+    "kind": "video",
+    "title": "Active Recovery Session"
+   },
+   {
+    "id": "HHw-07XbbY4",
+    "kind": "short",
+    "title": "Each exercise for 30 seconds with no rest in between"
+   },
+   {
+    "id": "r8zuz18esgo",
+    "kind": "short",
+    "title": "Clapping push up \ud83d\udc4a"
+   },
+   {
+    "id": "4HbsGd62xps",
+    "kind": "short",
+    "title": "Squat jump"
+   },
+   {
+    "id": "u1vHeFR4ptE",
+    "kind": "short",
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "jIBkXDJDTgI",
+    "kind": "short",
+    "title": "Medicine Ball Squat Toss"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "1PTb-3y7nJ8",
+    "kind": "video",
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
+   },
+   {
+    "id": "FZq5k7l13fI",
+    "kind": "short",
+    "title": "5 rounds of 3 minutes of shadow boxing \ud83e\udd4a"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "cCIWGpOGlFU",
+    "kind": "short",
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
+   },
+   {
+    "id": "9h6FHbBzijE",
+    "kind": "short",
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
+   }
+  ],
+  "week-5-extras": [
+   {
+    "id": "VfZLs80oNRk",
+    "kind": "short",
+    "title": "3 rounds of 3 minutes with 1 minute of rest in between"
+   },
+   {
+    "id": "S_5wY_nYtCs",
+    "kind": "short",
+    "title": "Knuckle push ups"
+   },
+   {
+    "id": "N9o9qTh4Dyk",
+    "kind": "short",
+    "title": "Squats"
+   },
+   {
+    "id": "DAlEJWGZhmA",
+    "kind": "short",
+    "title": "Balanced tucks"
+   },
+   {
+    "id": "QtFftUs7Pbc",
+    "kind": "short",
+    "title": "Strict pull ups"
+   },
+   {
+    "id": "r8zuz18esgo",
+    "kind": "short",
+    "title": "Clapping push up \ud83d\udc4a"
+   },
+   {
+    "id": "4HbsGd62xps",
+    "kind": "short",
+    "title": "Squat jump"
+   },
+   {
+    "id": "v4FjyPTGmWw",
+    "kind": "short",
+    "title": "Hanging leg raises"
+   },
+   {
+    "id": "lYW01NV5hlU",
+    "kind": "short",
+    "title": "3 rounds of 3 minutes of shadow boxing"
+   },
+   {
+    "id": "wFliXDD4sdo",
+    "kind": "short",
+    "title": "10 burpees and 20 jumping jacks"
+   },
+   {
+    "id": "8bv6hM59338",
+    "kind": "video",
+    "title": "Stretch Series for your workout Warm-Up or Cool-Down"
+   },
+   {
+    "id": "YGGq0AE5Uyc",
+    "kind": "video",
+    "title": "Squat Jump"
+   },
+   {
+    "id": "Gvm5Q29UHbk",
+    "kind": "video",
+    "title": "How to do an Incline Push-Up"
+   },
+   {
+    "id": "lwYucFpyicQ",
+    "kind": "short",
+    "title": "30 seconds pf shadow boxing drill to let your hands go"
+   },
+   {
+    "id": "nN-fkSOL1ds",
+    "kind": "video",
+    "title": "How To Do A Split Jump"
+   },
+   {
+    "id": "xAL7lHwj30E",
+    "kind": "video",
+    "title": "Dumbbell Romanian Deadlift"
+   },
+   {
+    "id": "CCSQ72S_NI0",
+    "kind": "short",
+    "title": "30 seconds of footwork drill to \u201cshake off\u201d your feet"
+   },
+   {
+    "id": "aAggnpPyR6E",
+    "kind": "video",
+    "title": "The Pull-Up"
+   },
+   {
+    "id": "2ubF0fUggSc",
+    "kind": "video",
+    "title": "Rotational Med Ball Slam"
+   },
+   {
+    "id": "8rgurWd-PB8",
+    "kind": "video",
+    "title": "Plank Shoulder Taps"
+   },
+   {
+    "id": "Ozz_LPaDFJc",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between \ufffc"
+   },
+   {
+    "id": "5reVMmjNQik",
+    "kind": "short",
+    "title": "Practice each group of punches for 2 minutes with 45 seconds of rest in between"
+   },
+   {
+    "id": "LiAWJ79WX-Q",
+    "kind": "video",
+    "title": "Warm-up and cool-down for boxing"
+   },
+   {
+    "id": "ThK-ZCjXPuU",
+    "kind": "short",
+    "title": "Knock down simulator drills"
+   },
+   {
+    "id": "feOR1lnXBvg",
+    "kind": "short",
+    "title": "1 minute with dumbbells; 1 minute with bands; 1 minute with no resistance. 20 seconds of rest"
+   },
+   {
+    "id": "w8x6hCoa2sA",
+    "kind": "short",
+    "title": "3 rounds of 3 minutes of freestyle shadow boxing"
+   },
+   {
+    "id": "dMyfD4VQUiA",
+    "kind": "short",
+    "title": "1 set of 10 reps for each exercise with no rest in between"
+   },
+   {
+    "id": "u1vHeFR4ptE",
+    "kind": "short",
+    "title": "Don\u2019t break your hand with this boxing drill \ud83d\udeab"
+   },
+   {
+    "id": "wp3mmcRXHzY",
+    "kind": "short",
+    "title": "DO THIS ALWAYS! How to do knuckle push up workout."
+   },
+   {
+    "id": "jIBkXDJDTgI",
+    "kind": "short",
+    "title": "Medicine Ball Squat Toss"
+   },
+   {
+    "id": "ZPG8OsHKXLw",
+    "kind": "short",
+    "title": "The PERFECT Pull-Up (5 Steps)"
+   },
+   {
+    "id": "1PTb-3y7nJ8",
+    "kind": "video",
+    "title": "Medicine Ball Drill 2 Exercise 4 - Sit Up Throw"
+   },
+   {
+    "id": "Mo5vtCs7mkk",
+    "kind": "short",
+    "title": "Go for 3 minutes rounds with 1 minute of rest in between"
+   },
+   {
+    "id": "cCIWGpOGlFU",
+    "kind": "short",
+    "title": "Do 3 rounds like that #boxing #boxer #shorts"
+   },
+   {
+    "id": "9h6FHbBzijE",
+    "kind": "short",
+    "title": "Do each drill for 1 minute so you\u2019ll get 1 round of 6 minutes #boxing"
+   },
+   {
+    "id": "mdk-t9B8ChE",
+    "kind": "video",
+    "title": "Active Recovery Session"
    }
   ]
  }
