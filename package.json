@@ -3,6 +3,9 @@
   "private": true,
   "version": "1.0.0",
   "description": "KO Boxing Package — training wiki built with Nuxt and IBM Carbon Design System",
+  "engines": {
+    "node": ">=20.19.0"
+  },
   "scripts": {
     "dev": "nuxt dev",
     "build": "nuxt build",
