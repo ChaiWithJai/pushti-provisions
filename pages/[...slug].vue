@@ -10,6 +10,7 @@ if (!page.value) {
 }
 
 const [prev, next] = await queryContent()
+  .where({ _partial: { $ne: true }, _extension: 'md' })
   .only(['_path', 'title'])
   .sort({ _file: 1 })
   .findSurround(page.value._path)
