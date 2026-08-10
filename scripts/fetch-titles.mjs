@@ -20,6 +20,19 @@ for (const f of files) {
   }
 }
 
+// IDs from precise PDF link extractions, when present
+for (const plan of ['basic', 'competitive']) {
+  const f = `canonical/${plan}-plan-links.json`
+  if (!existsSync(f)) continue
+  const { pages } = JSON.parse(readFileSync(f, 'utf8'))
+  for (const p of pages) {
+    for (const l of p.links) {
+      const m = String(l.uri).match(/(?:shorts\/|youtu\.be\/|v=)([\w-]{11})/)
+      if (m) ids.add(m[1])
+    }
+  }
+}
+
 const out = existsSync('data/videos/titles.json')
   ? JSON.parse(readFileSync('data/videos/titles.json', 'utf8'))
   : {}
