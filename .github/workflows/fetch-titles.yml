@@ -26,7 +26,7 @@ jobs:
           python-version: '3.12'
       - name: Extract PDF link annotations from Drive PDFs
         run: |
-          pip install --quiet gdown pypdf pdfplumber
+          pip install --quiet requests pypdf pdfplumber
           python scripts/extract_pdf_links.py
       - name: Fetch titles via YouTube oEmbed
         run: node scripts/fetch-titles.mjs

@@ -10,8 +10,6 @@ used to place video embeds in the wiki content.
 """
 import json
 import os
-import subprocess
-import sys
 
 PDFS = {
     "basic": "1Ce0XirE69WGnEa0vVMOw83kJo6lPxeXa",
@@ -22,11 +20,39 @@ PDFS = {
 def ensure(pdf_path: str, file_id: str) -> None:
     if os.path.exists(pdf_path) and os.path.getsize(pdf_path) > 1_000_000:
         return
-    subprocess.run(
-        [sys.executable, "-m", "gdown",
-         f"https://drive.google.com/uc?id={file_id}", "-O", pdf_path],
-        check=True,
+    import re
+    import requests
+
+    session = requests.Session()
+    resp = session.get(
+        "https://drive.google.com/uc",
+        params={"export": "download", "id": file_id},
+        stream=True,
+        timeout=120,
     )
+    if "text/html" in resp.headers.get("content-type", ""):
+        # Virus-scan / confirm interstitial: submit the download form
+        html = resp.text
+        action_m = re.search(r'action="([^"]+)"', html)
+        if not action_m:
+            print(f"DOWNLOAD FAILED for {file_id}: status={resp.status_code}")
+            print(html[:1000])
+            raise SystemExit(1)
+        fields = dict(re.findall(r'name="([^"]+)"\s+value="([^"]*)"', html))
+        resp = session.get(action_m.group(1).replace("&amp;", "&"),
+                           params=fields, stream=True, timeout=300)
+    with open(pdf_path, "wb") as f:
+        for chunk in resp.iter_content(1 << 20):
+            f.write(chunk)
+    with open(pdf_path, "rb") as f:
+        magic = f.read(5)
+    if magic != b"%PDF-":
+        print(f"DOWNLOAD FAILED for {file_id}: not a PDF (magic={magic!r}, "
+              f"size={os.path.getsize(pdf_path)})")
+        with open(pdf_path, "rb") as f:
+            print(f.read(800))
+        raise SystemExit(1)
+    print(f"downloaded {file_id}: {os.path.getsize(pdf_path)} bytes")
 
 
 def extract(pdf_path: str):
