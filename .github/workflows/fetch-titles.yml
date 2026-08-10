@@ -2,6 +2,12 @@ name: Fetch YouTube titles
 
 on:
   workflow_dispatch:
+  push:
+    branches:
+      - claude/pdf-wiki-carbon-nuxt-u9todg
+    paths:
+      - scripts/fetch-titles.mjs
+      - .github/workflows/fetch-titles.yml
 
 permissions:
   contents: write
@@ -21,5 +27,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/videos/titles.json
-          git diff --cached --quiet || git commit -m "chore: update video titles from YouTube oEmbed"
+          git diff --cached --quiet || git commit -m "chore: update video titles from YouTube oEmbed [skip ci]"
           git push
